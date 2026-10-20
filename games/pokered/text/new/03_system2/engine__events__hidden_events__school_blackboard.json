@@ -1,0 +1,12 @@
+{
+ "engine/events/hidden_events/school_blackboard.asm|HowToLinkText|0": "LINK LESSONS",
+ "engine/events/hidden_events/school_blackboard.asm|HowToLinkText|1": "DUEL HALL",
+ "engine/events/hidden_events/school_blackboard.asm|HowToLinkText|2": "SWAP ROOM",
+ "engine/events/hidden_events/school_blackboard.asm|HowToLinkText|3": "WALK AWAY@",
+ "engine/events/hidden_events/school_blackboard.asm|StatusAilmentText1|0": " ZZZ",
+ "engine/events/hidden_events/school_blackboard.asm|StatusAilmentText1|1": " TOX",
+ "engine/events/hidden_events/school_blackboard.asm|StatusAilmentText1|2": " NUM@",
+ "engine/events/hidden_events/school_blackboard.asm|StatusAilmentText2|0": " SCD",
+ "engine/events/hidden_events/school_blackboard.asm|StatusAilmentText2|1": " ICE",
+ "engine/events/hidden_events/school_blackboard.asm|StatusAilmentText2|2": " BACK@"
+}

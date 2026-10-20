@@ -1,0 +1,8 @@
+{
+ "text/Route18Gate1F.asm|_Route18Gate1FGuardYouNeedABicycleText|0": "CYCLE ROAD is for",
+ "text/Route18Gate1F.asm|_Route18Gate1FGuardYouNeedABicycleText|1": "ROADSTERs only!",
+ "text/Route18Gate1F.asm|_Route18Gate1FGuardCyclingRoadUphillText|0": "From this gate on",
+ "text/Route18Gate1F.asm|_Route18Gate1FGuardCyclingRoadUphillText|1": "it's a long climb",
+ "text/Route18Gate1F.asm|_Route18Gate1FGuardCyclingRoadUphillText|2": "uphill.",
+ "text/Route18Gate1F.asm|_Route18Gate1FGuardExcuseMeText|0": "Hold it!"
+}

@@ -1,0 +1,26266 @@
+{
+"overworld": {
+"tilesets": [
+"OVERWORLD"
+],
+"count": 128,
+"blocks": [
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+],
+[
+"solid+ledge"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid+ledge"
+],
+[
+"solid+ledge"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk+grass"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid+water"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid+water"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid+ledge"
+],
+[
+"solid+ledge"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+ledge"
+],
+[
+"solid"
+],
+[
+"solid+ledge"
+],
+[
+"solid+ledge"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid+ledge"
+],
+[
+"solid+ledge"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+ledge"
+],
+[
+"solid"
+],
+[
+"solid+ledge"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid+ledge"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid+ledge"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid+ledge"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+ledge"
+],
+[
+"walk"
+],
+[
+"solid+ledge"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid+ledge"
+],
+[
+"walk"
+],
+[
+"solid+ledge"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+ledge"
+],
+[
+"walk"
+],
+[
+"solid+ledge"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid+ledge"
+],
+[
+"solid+ledge"
+],
+[
+"solid+ledge"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid+ledge"
+],
+[
+"solid+ledge"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+ledge"
+],
+[
+"walk"
+],
+[
+"solid+ledge"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid+ledge"
+],
+[
+"walk"
+],
+[
+"solid+ledge"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+ledge"
+],
+[
+"walk"
+],
+[
+"solid+ledge"
+],
+[
+"solid+ledge"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid+ledge"
+],
+[
+"solid+ledge"
+],
+[
+"solid+ledge"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid+ledge"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid+water"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+],
+[
+"solid+ledge"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+}
+]
+},
+"reds_house": {
+"tilesets": [
+"REDS_HOUSE_1",
+"REDS_HOUSE_2"
+],
+"count": 19,
+"blocks": [
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk+warp",
+"walk+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk+warp",
+"walk+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+}
+]
+},
+"pokecenter": {
+"tilesets": [
+"MART",
+"POKECENTER"
+],
+"count": 37,
+"blocks": [
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+door+warp",
+"walk+warp"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+}
+]
+},
+"forest": {
+"tilesets": [
+"FOREST"
+],
+"count": 128,
+"blocks": [
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk+grass"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk+grass"
+],
+[
+"walk+grass"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk+grass"
+],
+[
+"solid"
+],
+[
+"walk+grass"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+grass"
+],
+[
+"solid"
+],
+[
+"walk+grass"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+grass"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+grass"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk+grass"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+grass"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+grass"
+],
+[
+"walk+grass"
+],
+[
+"solid"
+],
+[
+"walk+grass"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+grass"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+grass"
+],
+[
+"solid"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+grass"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+grass"
+],
+[
+"walk+grass"
+],
+[
+"solid"
+],
+[
+"walk+grass"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+grass"
+],
+[
+"solid"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+grass"
+],
+[
+"walk"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+grass"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+grass"
+],
+[
+"walk+grass"
+],
+[
+"walk"
+],
+[
+"walk+grass"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+grass"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+grass"
+],
+[
+"solid+water"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid+water"
+],
+[
+"walk"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid+water"
+],
+[
+"walk"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+warp"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk+warp"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+warp"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk+warp"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"walk"
+],
+[
+"solid+water"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"walk"
+],
+[
+"solid+water"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid+water"
+],
+[
+"walk"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid+water"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid+water"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid+water"
+],
+[
+"walk"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid+water"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid+water"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+}
+]
+},
+"gym": {
+"tilesets": [
+"DOJO",
+"GYM"
+],
+"count": 116,
+"blocks": [
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water",
+"solid+water"
+],
+[
+"solid+water",
+"solid+water"
+],
+[
+"solid+water",
+"solid+water"
+],
+[
+"solid+water",
+"solid+water"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water",
+"solid+water"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"solid+water",
+"solid+water"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"solid+water",
+"solid+water"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid+water",
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water",
+"solid+water"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid+water",
+"solid+water"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water",
+"solid+water"
+],
+[
+"solid+water",
+"solid+water"
+],
+[
+"solid+water",
+"solid+water"
+],
+[
+"solid+water",
+"solid+water"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid+water",
+"solid+water"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water",
+"solid+water"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid+water",
+"solid+water"
+],
+[
+"solid+water",
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid+water",
+"solid+water"
+],
+[
+"solid+water",
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"solid+water",
+"solid+water"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid+water",
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water",
+"solid+water"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid+water",
+"solid+water"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water",
+"solid+water"
+],
+[
+"solid+water",
+"solid+water"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water",
+"solid+water"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water",
+"solid+water"
+],
+[
+"solid+water",
+"solid+water"
+],
+[
+"solid+water",
+"solid+water"
+],
+[
+"solid+water",
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid+water",
+"solid+water"
+],
+[
+"solid+water",
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water",
+"solid+water"
+],
+[
+"solid+water",
+"solid+water"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid+water",
+"solid+water"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid+water",
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+warp",
+"walk+warp"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"solid+water",
+"solid+water"
+],
+[
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid"
+],
+[
+"solid",
+"solid"
+],
+[
+"walk",
+"walk"
+],
+[
+"solid+water",
+"solid+water"
+]
+],
+"uniform": false
+}
+]
+},
+"house": {
+"tilesets": [
+"HOUSE"
+],
+"count": 35,
+"blocks": [
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk+door+warp"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+}
+]
+},
+"gate": {
+"tilesets": [
+"FOREST_GATE",
+"MUSEUM",
+"GATE"
+],
+"count": 128,
+"blocks": [
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+warp",
+"walk+warp",
+"walk+warp"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+warp",
+"walk+warp",
+"walk+warp"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+door+warp",
+"walk+door+warp",
+"walk+door+warp"
+],
+[
+"walk+door+warp",
+"walk+door+warp",
+"walk+door+warp"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk+warp",
+"walk+warp",
+"walk+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk+warp",
+"walk+warp",
+"walk+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk+warp",
+"walk+warp",
+"walk+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+door+warp",
+"walk+door+warp",
+"walk+door+warp"
+],
+[
+"walk+door+warp",
+"walk+door+warp",
+"walk+door+warp"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid+counter",
+"solid+counter",
+"solid+counter"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk+door+warp",
+"walk+door+warp",
+"walk+door+warp"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"walk",
+"walk",
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"walk",
+"walk",
+"walk"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+],
+[
+"solid",
+"solid",
+"solid"
+]
+],
+"uniform": false
+}
+]
+},
+"underground": {
+"tilesets": [
+"UNDERGROUND"
+],
+"count": 17,
+"blocks": [
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk+warp"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk+warp"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+}
+]
+},
+"ship": {
+"tilesets": [
+"SHIP"
+],
+"count": 62,
+"blocks": [
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+door+warp"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk+warp"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+warp"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+warp"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid+water"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk+warp"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+door+warp"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+}
+]
+},
+"ship_port": {
+"tilesets": [
+"SHIP_PORT"
+],
+"count": 23,
+"blocks": [
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+water"
+],
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid+water"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+water"
+],
+[
+"solid"
+],
+[
+"walk+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+}
+]
+},
+"cemetery": {
+"tilesets": [
+"CEMETERY"
+],
+"count": 110,
+"blocks": [
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk+warp"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk+warp"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk+warp"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk+warp"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter"
+],
+[
+"solid+counter"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter"
+],
+[
+"solid+counter"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk+warp"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk+warp"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+warp"
+],
+[
+"walk"
+],
+[
+"walk+warp"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter"
+],
+[
+"solid+counter"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+}
+]
+},
+"interior": {
+"tilesets": [
+"INTERIOR"
+],
+"count": 58,
+"blocks": [
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk+warp"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk+warp"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk+warp"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+}
+]
+},
+"cavern": {
+"tilesets": [
+"CAVERN"
+],
+"count": 128,
+"blocks": [
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+warp"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+warp"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk+warp"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk+warp"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk+warp"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk+warp"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk+warp"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk+warp"
+],
+[
+"solid"
+]
+],
+"uniform": false
+}
+]
+},
+"lobby": {
+"tilesets": [
+"LOBBY"
+],
+"count": 79,
+"blocks": [
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid+counter"
+],
+[
+"solid+counter"
+],
+[
+"solid+counter"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter"
+],
+[
+"solid+counter"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid+counter"
+],
+[
+"walk"
+],
+[
+"solid+counter"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid+counter"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter"
+],
+[
+"solid+counter"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid+counter"
+],
+[
+"walk"
+],
+[
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter"
+],
+[
+"solid+counter"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter"
+],
+[
+"solid+counter"
+],
+[
+"walk"
+],
+[
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid+counter"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid+counter"
+],
+[
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid+counter"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid+counter"
+],
+[
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+door+warp"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter"
+],
+[
+"solid+counter"
+],
+[
+"solid+counter"
+],
+[
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid+counter"
+],
+[
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter"
+],
+[
+"solid+counter"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk+door+warp"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+],
+[
+"walk+door+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+}
+]
+},
+"mansion": {
+"tilesets": [
+"MANSION"
+],
+"count": 72,
+"blocks": [
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+door+warp"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk+door+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+],
+[
+"walk+door+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+],
+[
+"walk+door+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+}
+]
+},
+"lab": {
+"tilesets": [
+"LAB"
+],
+"count": 58,
+"blocks": [
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk+door+warp"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+}
+]
+},
+"club": {
+"tilesets": [
+"CLUB"
+],
+"count": 36,
+"blocks": [
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid+counter"
+],
+[
+"walk"
+],
+[
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid+counter"
+],
+[
+"walk"
+],
+[
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid+counter"
+],
+[
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+counter"
+],
+[
+"solid+counter"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+}
+]
+},
+"facility": {
+"tilesets": [
+"FACILITY"
+],
+"count": 128,
+"blocks": [
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk+warp"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk+warp"
+],
+[
+"walk"
+],
+[
+"walk+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk+warp"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk+door+warp"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid+counter"
+],
+[
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid+counter"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+door+warp"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+water"
+],
+[
+"walk+water"
+],
+[
+"walk+water"
+],
+[
+"walk+water"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+warp"
+],
+[
+"walk"
+],
+[
+"walk+warp"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk+warp"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+water"
+],
+[
+"walk+water"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk+door+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+warp"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk+warp"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk+door+warp"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+water"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+door+warp"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+door+warp"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid+counter"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+}
+]
+},
+"plateau": {
+"tilesets": [
+"PLATEAU"
+],
+"count": 73,
+"blocks": [
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk+door+warp"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk+grass"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+],
+[
+"walk+grass"
+]
+],
+"uniform": true
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"solid"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid"
+],
+[
+"solid+water"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid+water"
+],
+[
+"solid"
+]
+],
+"uniform": false
+},
+{
+"steps": [
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"walk"
+],
+[
+"solid"
+]
+],
+"uniform": false
+}
+]
+}
+}

@@ -1,0 +1,5 @@
+{
+ "engine/items/town_map.asm|MonsNestText|0": "'s HOME@",
+ "engine/items/town_map.asm|ToText|0": "Go@",
+ "engine/items/town_map.asm|AreaUnknownText|0": " NO SIGHTINGS@"
+}

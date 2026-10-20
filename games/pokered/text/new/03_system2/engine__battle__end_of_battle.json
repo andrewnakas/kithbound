@@ -1,0 +1,5 @@
+{
+ "engine/battle/end_of_battle.asm|YouWinText|0": "VICTORY@",
+ "engine/battle/end_of_battle.asm|YouLoseText|0": "DEFEAT@",
+ "engine/battle/end_of_battle.asm|DrawText|0": "  TIE@"
+}

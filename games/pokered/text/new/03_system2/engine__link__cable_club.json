@@ -1,0 +1,8 @@
+{
+ "engine/link/cable_club.asm|PleaseWaitString|0": "HOLD ON...!@",
+ "engine/link/cable_club.asm|TradeCenter_SelectMon.statsTrade|0": "INFO      SWAP@",
+ "engine/link/cable_club.asm|CancelTextString|0": "BACK@",
+ "engine/link/cable_club.asm|TradeCompleted|0": "Swap is done!@",
+ "engine/link/cable_club.asm|TradeCanceled|0": "Oh no! The swap",
+ "engine/link/cable_club.asm|TradeCanceled|1": "fell through!@"
+}

@@ -1,0 +1,7 @@
+{
+ "engine/battle/core.asm|DisplayBattleMenu.oldManName|0": "GRAMPS@",
+ "engine/battle/core.asm|WhichTechniqueString|0": "PICK A SKILL?@",
+ "engine/battle/core.asm|DisabledText|0": "jammed!@",
+ "engine/battle/core.asm|TypeText|0": "KIND@",
+ "engine/battle/core.asm|InitWildBattle.isGhost|0": "SPOOK@"
+}

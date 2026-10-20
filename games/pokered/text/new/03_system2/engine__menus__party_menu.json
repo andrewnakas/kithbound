@@ -1,0 +1,6 @@
+{
+ "engine/menus/party_menu.asm|RedrawPartyMenu_.ableToLearnMoveText|0": "CAN@",
+ "engine/menus/party_menu.asm|RedrawPartyMenu_.notAbleToLearnMoveText|0": "CANNOT@",
+ "engine/menus/party_menu.asm|RedrawPartyMenu_.ableToEvolveText|0": "CAN@",
+ "engine/menus/party_menu.asm|RedrawPartyMenu_.notAbleToEvolveText|0": "CANNOT@"
+}

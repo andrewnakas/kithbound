@@ -1,0 +1,13 @@
+{
+ "text/Route16Gate1F.asm|_Route16Gate1FGuardNoPedestriansAllowedText|0": "Wheels only!",
+ "text/Route16Gate1F.asm|_Route16Gate1FGuardNoPedestriansAllowedText|1": "No walking on",
+ "text/Route16Gate1F.asm|_Route16Gate1FGuardNoPedestriansAllowedText|2": "CYCLE ROAD!",
+ "text/Route16Gate1F.asm|_Route16Gate1FGuardCyclingRoadExplanationText|0": "CYCLE ROAD runs",
+ "text/Route16Gate1F.asm|_Route16Gate1FGuardCyclingRoadExplanationText|1": "downhill along the",
+ "text/Route16Gate1F.asm|_Route16Gate1FGuardCyclingRoadExplanationText|2": "coast. Ride it and",
+ "text/Route16Gate1F.asm|_Route16Gate1FGuardCyclingRoadExplanationText|3": "feel the wind!",
+ "text/Route16Gate1F.asm|_Route16Gate1FGuardWaitUpText|0": "Hold on there!",
+ "text/Route16Gate1F.asm|_Route16Gate1FGuardWaitUpText|1": "One moment!",
+ "text/Route16Gate1F.asm|_Route16Gate1FGamblerText|0": "You snuck in? Ha!",
+ "text/Route16Gate1F.asm|_Route16Gate1FGamblerText|1": "Nice going!"
+}

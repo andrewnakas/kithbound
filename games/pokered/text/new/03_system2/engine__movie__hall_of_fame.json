@@ -1,0 +1,8 @@
+{
+ "engine/movie/hall_of_fame.asm|HallOfFameText|0": "CROWN ROLL@",
+ "engine/movie/hall_of_fame.asm|HoFMonInfoText|0": "LEVEL/",
+ "engine/movie/hall_of_fame.asm|HoFMonInfoText|1": "KIND1/",
+ "engine/movie/hall_of_fame.asm|HoFMonInfoText|2": "KIND2/@",
+ "engine/movie/hall_of_fame.asm|HoFPlayTimeText|0": "TIME KEPT@",
+ "engine/movie/hall_of_fame.asm|HoFMoneyText|0": "FUNDS@"
+}

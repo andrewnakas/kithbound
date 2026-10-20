@@ -1,0 +1,5 @@
+{
+ "engine/menus/text_box.asm|PokemonMenuEntries|0": "INFO",
+ "engine/menus/text_box.asm|PokemonMenuEntries|1": "SWAP",
+ "engine/menus/text_box.asm|PokemonMenuEntries|2": "BACK@"
+}

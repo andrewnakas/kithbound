@@ -1,0 +1,10 @@
+{
+ "engine/events/diploma.asm|DiplomaText|0": "Laurels",
+ "engine/events/diploma.asm|DiplomaPlayer|0": "Tamer@",
+ "engine/events/diploma.asm|DiplomaCongrats|0": "Well done! These",
+ "engine/events/diploma.asm|DiplomaCongrats|1": "laurels honor a",
+ "engine/events/diploma.asm|DiplomaCongrats|2": "TAMER who filled",
+ "engine/events/diploma.asm|DiplomaCongrats|3": "every page of the",
+ "engine/events/diploma.asm|DiplomaCongrats|4": "KITHLOG.@",
+ "engine/events/diploma.asm|DiplomaGameFreak|0": "KITHBOUND@"
+}

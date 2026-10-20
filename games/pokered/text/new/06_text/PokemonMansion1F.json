@@ -1,0 +1,13 @@
+{
+"text/PokemonMansion1F.asm|_PokemonMansion1FScientistBattleText|0": "Hey! This manor",
+"text/PokemonMansion1F.asm|_PokemonMansion1FScientistBattleText|1": "is off limits.",
+"text/PokemonMansion1F.asm|_PokemonMansion1FScientistBattleText|2": "Out, intruder!",
+"text/PokemonMansion1F.asm|_PokemonMansion1FScientistEndBattleText|0": "Ow, ow!",
+"text/PokemonMansion1F.asm|_PokemonMansion1FScientistAfterBattleText|0": "Keys? Never seen",
+"text/PokemonMansion1F.asm|_PokemonMansion1FScientistAfterBattleText|1": "one. Not here.",
+"text/PokemonMansion1F.asm|_PokemonMansion1FScientistAfterBattleText|2": "Stop asking.",
+"text/PokemonMansion1F.asm|_PokemonMansion1FSwitchText|0": "A hidden lever!",
+"text/PokemonMansion1F.asm|_PokemonMansion1FSwitchText|1": "Flip it?",
+"text/PokemonMansion1F.asm|_PokemonMansion1FSwitchPressedText|0": "Click! Done.",
+"text/PokemonMansion1F.asm|_PokemonMansion1FSwitchNotPressedText|0": "Better leave it."
+}

@@ -1,0 +1,19 @@
+{
+ "engine/menus/main_menu.asm|ContinueText|0": "RESUME  ",
+ "engine/menus/main_menu.asm|NewGameText|0": "NEW TALE",
+ "engine/menus/main_menu.asm|NewGameText|1": "SETUP@",
+ "engine/menus/main_menu.asm|CableClubOptionsText|0": "SWAP ROOM",
+ "engine/menus/main_menu.asm|CableClubOptionsText|1": "DUEL HALL",
+ "engine/menus/main_menu.asm|CableClubOptionsText|2": "BACK@",
+ "engine/menus/main_menu.asm|SaveScreenInfoText|0": "TAMER",
+ "engine/menus/main_menu.asm|SaveScreenInfoText|1": "BADGES    ",
+ "engine/menus/main_menu.asm|SaveScreenInfoText|2": "KITHLOG    ",
+ "engine/menus/main_menu.asm|SaveScreenInfoText|3": "CLOCK@",
+ "engine/menus/main_menu.asm|TextSpeedOptionText|0": "READING PACE",
+ "engine/menus/main_menu.asm|TextSpeedOptionText|1": " BRISK STEADY LAZY@",
+ "engine/menus/main_menu.asm|BattleAnimationOptionText|0": "MOVE EFFECTS",
+ "engine/menus/main_menu.asm|BattleAnimationOptionText|1": " SHOW     SKIP@",
+ "engine/menus/main_menu.asm|BattleStyleOptionText|0": "DUEL RULES",
+ "engine/menus/main_menu.asm|BattleStyleOptionText|1": " SWAP     FIX@",
+ "engine/menus/main_menu.asm|OptionMenuCancelText|0": "BACK@"
+}

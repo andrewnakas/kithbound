@@ -1,0 +1,13 @@
+{
+ "engine/pokemon/status_screen.asm|TypesIDNoOTText|0": "KIND1/",
+ "engine/pokemon/status_screen.asm|TypesIDNoOTText|1": "KIND2/",
+ "engine/pokemon/status_screen.asm|TypesIDNoOTText|3": "TAMER/",
+ "engine/pokemon/status_screen.asm|StatusText|0": "STATE/@",
+ "engine/pokemon/status_screen.asm|OKText|0": "OK@",
+ "engine/pokemon/status_screen.asm|PrintStatsBox.StatsText|0": "BRAWN",
+ "engine/pokemon/status_screen.asm|PrintStatsBox.StatsText|1": "GUARD",
+ "engine/pokemon/status_screen.asm|PrintStatsBox.StatsText|2": "DASH",
+ "engine/pokemon/status_screen.asm|PrintStatsBox.StatsText|3": "WIT@",
+ "engine/pokemon/status_screen.asm|StatusScreenExpText|0": "GROWTH PTS",
+ "engine/pokemon/status_screen.asm|StatusScreenExpText|1": "TO GROW@"
+}

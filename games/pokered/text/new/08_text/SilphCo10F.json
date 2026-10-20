@@ -1,0 +1,20 @@
+{
+ "text/SilphCo10F.asm|_SilphCo10FSilphWorkerFImScaredText|0": "Boo hoo hoo!",
+ "text/SilphCo10F.asm|_SilphCo10FSilphWorkerFImScaredText|1": "I want my mom!",
+ "text/SilphCo10F.asm|_SilphCo10FSilphWorkerFQuietAboutMyCryingText|0": "Promise you won't",
+ "text/SilphCo10F.asm|_SilphCo10FSilphWorkerFQuietAboutMyCryingText|1": "tell I bawled!",
+ "text/SilphCo10F.asm|_SilphCo10FRocketBattleText|0": "Ah, a guest on",
+ "text/SilphCo10F.asm|_SilphCo10FRocketBattleText|1": "10F! Do sit down",
+ "text/SilphCo10F.asm|_SilphCo10FRocketBattleText|2": "and lose to me!",
+ "text/SilphCo10F.asm|_SilphCo10FRocketEndBattleText|1": "floored!",
+ "text/SilphCo10F.asm|_SilphCo10FRocketAfterBattleText|0": "Cute, but the",
+ "text/SilphCo10F.asm|_SilphCo10FRocketAfterBattleText|1": "big meeting is",
+ "text/SilphCo10F.asm|_SilphCo10FRocketAfterBattleText|2": "on the top floor!",
+ "text/SilphCo10F.asm|_SilphCo10FScientistBattleText|0": "Playtime's over,",
+ "text/SilphCo10F.asm|_SilphCo10FScientistBattleText|1": "little one!",
+ "text/SilphCo10F.asm|_SilphCo10FScientistEndBattleText|0": "Game",
+ "text/SilphCo10F.asm|_SilphCo10FScientistEndBattleText|1": "over, man!",
+ "text/SilphCo10F.asm|_SilphCo10FScientistAfterBattleText|0": "Happy now? You",
+ "text/SilphCo10F.asm|_SilphCo10FScientistAfterBattleText|1": "beat a nerd. Go",
+ "text/SilphCo10F.asm|_SilphCo10FScientistAfterBattleText|2": "on, shoo!"
+}

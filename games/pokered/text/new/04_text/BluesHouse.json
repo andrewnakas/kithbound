@@ -1,0 +1,21 @@
+{
+"text/BluesHouse.asm|_BluesHouseDaisyRivalAtLabText|0": "Oh, <PLAYER>!",
+"text/BluesHouse.asm|_BluesHouseDaisyRivalAtLabText|1": "<RIVAL> ran off",
+"text/BluesHouse.asm|_BluesHouseDaisyRivalAtLabText|2": "to the lab again.",
+"text/BluesHouse.asm|_BluesHouseDaisyOfferMapText|0": "An errand for the",
+"text/BluesHouse.asm|_BluesHouseDaisyOfferMapText|1": "old professor? He",
+"text/BluesHouse.asm|_BluesHouseDaisyOfferMapText|2": "never asks nicely.",
+"text/BluesHouse.asm|_BluesHouseDaisyOfferMapText|3": "Take this along!",
+"text/BluesHouse.asm|_GotMapText|0": "<PLAYER> got a",
+"text/BluesHouse.asm|_BluesHouseDaisyBagFullText|0": "Your pockets look",
+"text/BluesHouse.asm|_BluesHouseDaisyBagFullText|1": "stuffed already.",
+"text/BluesHouse.asm|_BluesHouseDaisyUseMapText|0": "Lost? Unfold the",
+"text/BluesHouse.asm|_BluesHouseDaisyUseMapText|1": "AREA CHART and it",
+"text/BluesHouse.asm|_BluesHouseDaisyUseMapText|2": "pins your place.",
+"text/BluesHouse.asm|_BluesHouseDaisyWalkingText|0": "Kith get worn out",
+"text/BluesHouse.asm|_BluesHouseDaisyWalkingText|1": "like we do. When",
+"text/BluesHouse.asm|_BluesHouseDaisyWalkingText|2": "they flag, stop by",
+"text/BluesHouse.asm|_BluesHouseDaisyWalkingText|3": "a REST HOUSE!",
+"text/BluesHouse.asm|_BluesHouseTownMapText|0": "A wide wall chart",
+"text/BluesHouse.asm|_BluesHouseTownMapText|1": "of the whole land."
+}

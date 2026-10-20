@@ -1,0 +1,9 @@
+{
+ "engine/menus/draw_start_menu.asm|StartMenuPokedexText|0": "KITHLOG@",
+ "engine/menus/draw_start_menu.asm|StartMenuPokemonText|0": "KITH@",
+ "engine/menus/draw_start_menu.asm|StartMenuItemText|0": "BAG@",
+ "engine/menus/draw_start_menu.asm|StartMenuSaveText|0": "NOTE@",
+ "engine/menus/draw_start_menu.asm|StartMenuResetText|0": "LEAVE@",
+ "engine/menus/draw_start_menu.asm|StartMenuExitText|0": "DONE@",
+ "engine/menus/draw_start_menu.asm|StartMenuOptionText|0": "SETUP@"
+}

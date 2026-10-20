@@ -1,0 +1,6918 @@
+{
+"59_1.asm": [
+{
+"label": "SFX_59_1_Ch5",
+"ch": 5,
+"bytes": 7,
+"music": false,
+"square": 1,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_59_1_Ch6",
+"ch": 6,
+"bytes": 11,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"59_3.asm": [
+{
+"label": "SFX_59_3_Ch5",
+"ch": 5,
+"bytes": 7,
+"music": false,
+"square": 1,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_59_3_Ch6",
+"ch": 6,
+"bytes": 11,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"arrow_tiles_1.asm": [
+{
+"label": "SFX_Arrow_Tiles_1_Ch5",
+"ch": 5,
+"bytes": 11,
+"music": false,
+"square": 1,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"arrow_tiles_3.asm": [
+{
+"label": "SFX_Arrow_Tiles_3_Ch5",
+"ch": 5,
+"bytes": 11,
+"music": false,
+"square": 1,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"ball_poof.asm": [
+{
+"label": "SFX_Ball_Poof_Ch5",
+"ch": 5,
+"bytes": 11,
+"music": false,
+"square": 1,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Ball_Poof_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"ball_toss.asm": [
+{
+"label": "SFX_Ball_Toss_Ch5",
+"ch": 5,
+"bytes": 9,
+"music": false,
+"square": 1,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Ball_Toss_Ch6",
+"ch": 6,
+"bytes": 7,
+"music": false,
+"square": 1,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_09.asm": [
+{
+"label": "SFX_Battle_09_Ch5",
+"ch": 5,
+"bytes": 11,
+"music": false,
+"square": 1,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_0b.asm": [
+{
+"label": "SFX_Battle_0B_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_0c.asm": [
+{
+"label": "SFX_Battle_0C_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_0d.asm": [
+{
+"label": "SFX_Battle_0D_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_0e.asm": [
+{
+"label": "SFX_Battle_0E_Ch8",
+"ch": 8,
+"bytes": 7,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_0f.asm": [
+{
+"label": "SFX_Battle_0F_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_12.asm": [
+{
+"label": "SFX_Battle_12_Ch8",
+"ch": 8,
+"bytes": 14,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 1
+}
+],
+"battle_13.asm": [
+{
+"label": "SFX_Battle_13_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_14.asm": [
+{
+"label": "SFX_Battle_14_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_16.asm": [
+{
+"label": "SFX_Battle_16_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_17.asm": [
+{
+"label": "SFX_Battle_17_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_18.asm": [
+{
+"label": "SFX_Battle_18_Ch8",
+"ch": 8,
+"bytes": 7,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_19.asm": [
+{
+"label": "SFX_Battle_19_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_1b.asm": [
+{
+"label": "SFX_Battle_1B_Ch8",
+"ch": 8,
+"bytes": 7,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_1c.asm": [
+{
+"label": "SFX_Battle_1C_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_1e.asm": [
+{
+"label": "SFX_Battle_1E_Ch5",
+"ch": 5,
+"bytes": 17,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Battle_1E_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_20.asm": [
+{
+"label": "SFX_Battle_20_Ch8",
+"ch": 8,
+"bytes": 7,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_21.asm": [
+{
+"label": "SFX_Battle_21_Ch8",
+"ch": 8,
+"bytes": 16,
+"music": false,
+"square": 0,
+"noise": 5,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_22.asm": [
+{
+"label": "SFX_Battle_22_Ch8",
+"ch": 8,
+"bytes": 7,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_23.asm": [
+{
+"label": "SFX_Battle_23_Ch8",
+"ch": 8,
+"bytes": 16,
+"music": false,
+"square": 0,
+"noise": 5,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_24.asm": [
+{
+"label": "SFX_Battle_24_Ch5",
+"ch": 5,
+"bytes": 11,
+"music": false,
+"square": 1,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Battle_24_Ch8",
+"ch": 8,
+"bytes": 7,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_25.asm": [
+{
+"label": "SFX_Battle_25_Ch8",
+"ch": 8,
+"bytes": 16,
+"music": false,
+"square": 0,
+"noise": 5,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_26.asm": [
+{
+"label": "SFX_Battle_26_Ch8",
+"ch": 8,
+"bytes": 22,
+"music": false,
+"square": 0,
+"noise": 7,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_27.asm": [
+{
+"label": "SFX_Battle_27_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 1
+},
+{
+"label": "SFX_Battle_27_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 1
+},
+{
+"label": "SFX_Battle_27_Ch8",
+"ch": 8,
+"bytes": 11,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 1
+}
+],
+"battle_28.asm": [
+{
+"label": "SFX_Battle_28_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 1
+},
+{
+"label": "SFX_Battle_28_Ch6",
+"ch": 6,
+"bytes": 15,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 1
+},
+{
+"label": "SFX_Battle_28_Ch8",
+"ch": 8,
+"bytes": 11,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 1
+}
+],
+"battle_29.asm": [
+{
+"label": "SFX_Battle_29_Ch5",
+"ch": 5,
+"bytes": 23,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 1
+},
+{
+"label": "SFX_Battle_29_Ch8",
+"ch": 8,
+"bytes": 20,
+"music": false,
+"square": 0,
+"noise": 5,
+"notes": 0,
+"loops": 1
+}
+],
+"battle_2a.asm": [
+{
+"label": "SFX_Battle_2A_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 1
+},
+{
+"label": "SFX_Battle_2A_Ch6",
+"ch": 6,
+"bytes": 23,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 1
+},
+{
+"label": "SFX_Battle_2A_Ch8",
+"ch": 8,
+"bytes": 17,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 1
+}
+],
+"battle_2b.asm": [
+{
+"label": "SFX_Battle_2B_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 1
+},
+{
+"label": "SFX_Battle_2B_Ch8",
+"ch": 8,
+"bytes": 23,
+"music": false,
+"square": 0,
+"noise": 6,
+"notes": 0,
+"loops": 1
+}
+],
+"battle_2c.asm": [
+{
+"label": "SFX_Battle_2C_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 1
+},
+{
+"label": "SFX_Battle_2C_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 1
+},
+{
+"label": "SFX_Battle_2C_Ch8",
+"ch": 8,
+"bytes": 17,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 1
+}
+],
+"battle_2e.asm": [
+{
+"label": "SFX_Battle_2E_Ch5",
+"ch": 5,
+"bytes": 23,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 1
+},
+{
+"label": "SFX_Battle_2E_Ch6",
+"ch": 6,
+"bytes": 23,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 1
+},
+{
+"label": "SFX_Battle_2E_Ch8",
+"ch": 8,
+"bytes": 17,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 1
+}
+],
+"battle_2f.asm": [
+{
+"label": "SFX_Battle_2F_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 1
+},
+{
+"label": "SFX_Battle_2F_Ch6",
+"ch": 6,
+"bytes": 15,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 1
+},
+{
+"label": "SFX_Battle_2F_Ch8",
+"ch": 8,
+"bytes": 11,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 1
+}
+],
+"battle_31.asm": [
+{
+"label": "SFX_Battle_31_Ch5",
+"ch": 5,
+"bytes": 23,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Battle_31_Ch6",
+"ch": 6,
+"bytes": 23,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_32.asm": [
+{
+"label": "SFX_Battle_32_Ch5",
+"ch": 5,
+"bytes": 11,
+"music": false,
+"square": 1,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Battle_32_Ch6",
+"ch": 6,
+"bytes": 7,
+"music": false,
+"square": 1,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_33.asm": [
+{
+"label": "SFX_Battle_33_Ch5",
+"ch": 5,
+"bytes": 23,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Battle_33_Ch6",
+"ch": 6,
+"bytes": 23,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_34.asm": [
+{
+"label": "SFX_Battle_34_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Battle_34_Ch6",
+"ch": 6,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Battle_34_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"battle_35.asm": [
+{
+"label": "SFX_Battle_35_Ch5",
+"ch": 5,
+"bytes": 16,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 4,
+"loops": 0
+},
+{
+"label": "SFX_Battle_35_Ch6",
+"ch": 6,
+"bytes": 18,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 4,
+"loops": 0
+}
+],
+"battle_36.asm": [
+{
+"label": "SFX_Battle_36_Ch5",
+"ch": 5,
+"bytes": 63,
+"music": false,
+"square": 14,
+"noise": 0,
+"notes": 0,
+"loops": 1
+},
+{
+"label": "SFX_Battle_36_Ch6",
+"ch": 6,
+"bytes": 63,
+"music": false,
+"square": 14,
+"noise": 0,
+"notes": 0,
+"loops": 1
+},
+{
+"label": "SFX_Battle_36_Ch8",
+"ch": 8,
+"bytes": 11,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 1
+}
+],
+"caught_mon.asm": [
+{
+"label": "SFX_Caught_Mon_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 11,
+"loops": 0
+},
+{
+"label": "SFX_Caught_Mon_Ch6",
+"ch": 6,
+"bytes": 22,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 13,
+"loops": 0
+},
+{
+"label": "SFX_Caught_Mon_Ch7",
+"ch": 7,
+"bytes": 15,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 6,
+"loops": 0
+}
+],
+"collision_1.asm": [
+{
+"label": "SFX_Collision_1_Ch5",
+"ch": 5,
+"bytes": 11,
+"music": false,
+"square": 1,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"collision_3.asm": [
+{
+"label": "SFX_Collision_3_Ch5",
+"ch": 5,
+"bytes": 11,
+"music": false,
+"square": 1,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"cry00_1.asm": [
+{
+"label": "SFX_Cry00_1_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry00_1_Ch6",
+"ch": 6,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry00_1_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"cry00_2.asm": [
+{
+"label": "SFX_Cry00_2_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry00_2_Ch6",
+"ch": 6,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry00_2_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"cry00_3.asm": [
+{
+"label": "SFX_Cry00_3_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry00_3_Ch6",
+"ch": 6,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry00_3_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"cry01_1.asm": [
+{
+"label": "SFX_Cry01_1_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry01_1_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry01_1_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry01_2.asm": [
+{
+"label": "SFX_Cry01_2_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry01_2_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry01_2_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry01_3.asm": [
+{
+"label": "SFX_Cry01_3_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry01_3_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry01_3_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry02_1.asm": [
+{
+"label": "SFX_Cry02_1_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry02_1_Ch6",
+"ch": 6,
+"bytes": 14,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry02_1_Ch8",
+"ch": 8,
+"bytes": 1,
+"music": false,
+"square": 0,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"cry02_2.asm": [
+{
+"label": "SFX_Cry02_2_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry02_2_Ch6",
+"ch": 6,
+"bytes": 14,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry02_2_Ch8",
+"ch": 8,
+"bytes": 1,
+"music": false,
+"square": 0,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"cry02_3.asm": [
+{
+"label": "SFX_Cry02_3_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry02_3_Ch6",
+"ch": 6,
+"bytes": 14,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry02_3_Ch8",
+"ch": 8,
+"bytes": 1,
+"music": false,
+"square": 0,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"cry03_1.asm": [
+{
+"label": "SFX_Cry03_1_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry03_1_Ch6",
+"ch": 6,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry03_1_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry03_2.asm": [
+{
+"label": "SFX_Cry03_2_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry03_2_Ch6",
+"ch": 6,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry03_2_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry03_3.asm": [
+{
+"label": "SFX_Cry03_3_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry03_3_Ch6",
+"ch": 6,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry03_3_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry04_1.asm": [
+{
+"label": "SFX_Cry04_1_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry04_1_Ch6",
+"ch": 6,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry04_1_Ch8",
+"ch": 8,
+"bytes": 19,
+"music": false,
+"square": 0,
+"noise": 6,
+"notes": 0,
+"loops": 0
+}
+],
+"cry04_2.asm": [
+{
+"label": "SFX_Cry04_2_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry04_2_Ch6",
+"ch": 6,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry04_2_Ch8",
+"ch": 8,
+"bytes": 19,
+"music": false,
+"square": 0,
+"noise": 6,
+"notes": 0,
+"loops": 0
+}
+],
+"cry04_3.asm": [
+{
+"label": "SFX_Cry04_3_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry04_3_Ch6",
+"ch": 6,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry04_3_Ch8",
+"ch": 8,
+"bytes": 19,
+"music": false,
+"square": 0,
+"noise": 6,
+"notes": 0,
+"loops": 0
+}
+],
+"cry05_1.asm": [
+{
+"label": "SFX_Cry05_1_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry05_1_Ch6",
+"ch": 6,
+"bytes": 18,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry05_1_Ch8",
+"ch": 8,
+"bytes": 1,
+"music": false,
+"square": 0,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"cry05_2.asm": [
+{
+"label": "SFX_Cry05_2_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry05_2_Ch6",
+"ch": 6,
+"bytes": 18,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry05_2_Ch8",
+"ch": 8,
+"bytes": 1,
+"music": false,
+"square": 0,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"cry05_3.asm": [
+{
+"label": "SFX_Cry05_3_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry05_3_Ch6",
+"ch": 6,
+"bytes": 18,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry05_3_Ch8",
+"ch": 8,
+"bytes": 1,
+"music": false,
+"square": 0,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"cry06_1.asm": [
+{
+"label": "SFX_Cry06_1_Ch5",
+"ch": 5,
+"bytes": 26,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry06_1_Ch6",
+"ch": 6,
+"bytes": 1,
+"music": false,
+"square": 0,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry06_1_Ch8",
+"ch": 8,
+"bytes": 19,
+"music": false,
+"square": 0,
+"noise": 6,
+"notes": 0,
+"loops": 0
+}
+],
+"cry06_2.asm": [
+{
+"label": "SFX_Cry06_2_Ch5",
+"ch": 5,
+"bytes": 26,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry06_2_Ch6",
+"ch": 6,
+"bytes": 1,
+"music": false,
+"square": 0,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry06_2_Ch8",
+"ch": 8,
+"bytes": 19,
+"music": false,
+"square": 0,
+"noise": 6,
+"notes": 0,
+"loops": 0
+}
+],
+"cry06_3.asm": [
+{
+"label": "SFX_Cry06_3_Ch5",
+"ch": 5,
+"bytes": 26,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry06_3_Ch6",
+"ch": 6,
+"bytes": 1,
+"music": false,
+"square": 0,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry06_3_Ch8",
+"ch": 8,
+"bytes": 19,
+"music": false,
+"square": 0,
+"noise": 6,
+"notes": 0,
+"loops": 0
+}
+],
+"cry07_1.asm": [
+{
+"label": "SFX_Cry07_1_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry07_1_Ch6",
+"ch": 6,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry07_1_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"cry07_2.asm": [
+{
+"label": "SFX_Cry07_2_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry07_2_Ch6",
+"ch": 6,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry07_2_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"cry07_3.asm": [
+{
+"label": "SFX_Cry07_3_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry07_3_Ch6",
+"ch": 6,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry07_3_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"cry08_1.asm": [
+{
+"label": "SFX_Cry08_1_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry08_1_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry08_1_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"cry08_2.asm": [
+{
+"label": "SFX_Cry08_2_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry08_2_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry08_2_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"cry08_3.asm": [
+{
+"label": "SFX_Cry08_3_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry08_3_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry08_3_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"cry09_1.asm": [
+{
+"label": "SFX_Cry09_1_Ch5",
+"ch": 5,
+"bytes": 29,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry09_1_Ch6",
+"ch": 6,
+"bytes": 33,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry09_1_Ch8",
+"ch": 8,
+"bytes": 25,
+"music": false,
+"square": 0,
+"noise": 8,
+"notes": 0,
+"loops": 0
+}
+],
+"cry09_2.asm": [
+{
+"label": "SFX_Cry09_2_Ch5",
+"ch": 5,
+"bytes": 29,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry09_2_Ch6",
+"ch": 6,
+"bytes": 33,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry09_2_Ch8",
+"ch": 8,
+"bytes": 25,
+"music": false,
+"square": 0,
+"noise": 8,
+"notes": 0,
+"loops": 0
+}
+],
+"cry09_3.asm": [
+{
+"label": "SFX_Cry09_3_Ch5",
+"ch": 5,
+"bytes": 29,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry09_3_Ch6",
+"ch": 6,
+"bytes": 33,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry09_3_Ch8",
+"ch": 8,
+"bytes": 25,
+"music": false,
+"square": 0,
+"noise": 8,
+"notes": 0,
+"loops": 0
+}
+],
+"cry0a_1.asm": [
+{
+"label": "SFX_Cry0A_1_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0A_1_Ch6",
+"ch": 6,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0A_1_Ch8",
+"ch": 8,
+"bytes": 25,
+"music": false,
+"square": 0,
+"noise": 8,
+"notes": 0,
+"loops": 0
+}
+],
+"cry0a_2.asm": [
+{
+"label": "SFX_Cry0A_2_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0A_2_Ch6",
+"ch": 6,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0A_2_Ch8",
+"ch": 8,
+"bytes": 25,
+"music": false,
+"square": 0,
+"noise": 8,
+"notes": 0,
+"loops": 0
+}
+],
+"cry0a_3.asm": [
+{
+"label": "SFX_Cry0A_3_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0A_3_Ch6",
+"ch": 6,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0A_3_Ch8",
+"ch": 8,
+"bytes": 25,
+"music": false,
+"square": 0,
+"noise": 8,
+"notes": 0,
+"loops": 0
+}
+],
+"cry0b_1.asm": [
+{
+"label": "SFX_Cry0B_1_Ch5",
+"ch": 5,
+"bytes": 43,
+"music": false,
+"square": 10,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0B_1_Ch6",
+"ch": 6,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0B_1_Ch8",
+"ch": 8,
+"bytes": 25,
+"music": false,
+"square": 0,
+"noise": 8,
+"notes": 0,
+"loops": 0
+}
+],
+"cry0b_2.asm": [
+{
+"label": "SFX_Cry0B_2_Ch5",
+"ch": 5,
+"bytes": 43,
+"music": false,
+"square": 10,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0B_2_Ch6",
+"ch": 6,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0B_2_Ch8",
+"ch": 8,
+"bytes": 25,
+"music": false,
+"square": 0,
+"noise": 8,
+"notes": 0,
+"loops": 0
+}
+],
+"cry0b_3.asm": [
+{
+"label": "SFX_Cry0B_3_Ch5",
+"ch": 5,
+"bytes": 43,
+"music": false,
+"square": 10,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0B_3_Ch6",
+"ch": 6,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0B_3_Ch8",
+"ch": 8,
+"bytes": 25,
+"music": false,
+"square": 0,
+"noise": 8,
+"notes": 0,
+"loops": 0
+}
+],
+"cry0c_1.asm": [
+{
+"label": "SFX_Cry0C_1_Ch5",
+"ch": 5,
+"bytes": 39,
+"music": false,
+"square": 9,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0C_1_Ch6",
+"ch": 6,
+"bytes": 38,
+"music": false,
+"square": 9,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0C_1_Ch8",
+"ch": 8,
+"bytes": 1,
+"music": false,
+"square": 0,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"cry0c_2.asm": [
+{
+"label": "SFX_Cry0C_2_Ch5",
+"ch": 5,
+"bytes": 39,
+"music": false,
+"square": 9,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0C_2_Ch6",
+"ch": 6,
+"bytes": 38,
+"music": false,
+"square": 9,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0C_2_Ch8",
+"ch": 8,
+"bytes": 1,
+"music": false,
+"square": 0,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"cry0c_3.asm": [
+{
+"label": "SFX_Cry0C_3_Ch5",
+"ch": 5,
+"bytes": 39,
+"music": false,
+"square": 9,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0C_3_Ch6",
+"ch": 6,
+"bytes": 38,
+"music": false,
+"square": 9,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0C_3_Ch8",
+"ch": 8,
+"bytes": 1,
+"music": false,
+"square": 0,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"cry0d_1.asm": [
+{
+"label": "SFX_Cry0D_1_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 1
+},
+{
+"label": "SFX_Cry0D_1_Ch6",
+"ch": 6,
+"bytes": 47,
+"music": false,
+"square": 11,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0D_1_Ch8",
+"ch": 8,
+"bytes": 31,
+"music": false,
+"square": 0,
+"noise": 10,
+"notes": 0,
+"loops": 0
+}
+],
+"cry0d_2.asm": [
+{
+"label": "SFX_Cry0D_2_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 1
+},
+{
+"label": "SFX_Cry0D_2_Ch6",
+"ch": 6,
+"bytes": 47,
+"music": false,
+"square": 11,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0D_2_Ch8",
+"ch": 8,
+"bytes": 31,
+"music": false,
+"square": 0,
+"noise": 10,
+"notes": 0,
+"loops": 0
+}
+],
+"cry0d_3.asm": [
+{
+"label": "SFX_Cry0D_3_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 1
+},
+{
+"label": "SFX_Cry0D_3_Ch6",
+"ch": 6,
+"bytes": 47,
+"music": false,
+"square": 11,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0D_3_Ch8",
+"ch": 8,
+"bytes": 31,
+"music": false,
+"square": 0,
+"noise": 10,
+"notes": 0,
+"loops": 0
+}
+],
+"cry0e_1.asm": [
+{
+"label": "SFX_Cry0E_1_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0E_1_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0E_1_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"cry0e_2.asm": [
+{
+"label": "SFX_Cry0E_2_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0E_2_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0E_2_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"cry0e_3.asm": [
+{
+"label": "SFX_Cry0E_3_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0E_3_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0E_3_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"cry0f_1.asm": [
+{
+"label": "SFX_Cry0F_1_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0F_1_Ch6",
+"ch": 6,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0F_1_Ch8",
+"ch": 8,
+"bytes": 16,
+"music": false,
+"square": 0,
+"noise": 5,
+"notes": 0,
+"loops": 0
+}
+],
+"cry0f_2.asm": [
+{
+"label": "SFX_Cry0F_2_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0F_2_Ch6",
+"ch": 6,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0F_2_Ch8",
+"ch": 8,
+"bytes": 16,
+"music": false,
+"square": 0,
+"noise": 5,
+"notes": 0,
+"loops": 0
+}
+],
+"cry0f_3.asm": [
+{
+"label": "SFX_Cry0F_3_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0F_3_Ch6",
+"ch": 6,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry0F_3_Ch8",
+"ch": 8,
+"bytes": 16,
+"music": false,
+"square": 0,
+"noise": 5,
+"notes": 0,
+"loops": 0
+}
+],
+"cry10_1.asm": [
+{
+"label": "SFX_Cry10_1_Ch5",
+"ch": 5,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry10_1_Ch6",
+"ch": 6,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry10_1_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"cry10_2.asm": [
+{
+"label": "SFX_Cry10_2_Ch5",
+"ch": 5,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry10_2_Ch6",
+"ch": 6,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry10_2_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"cry10_3.asm": [
+{
+"label": "SFX_Cry10_3_Ch5",
+"ch": 5,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry10_3_Ch6",
+"ch": 6,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry10_3_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"cry11_1.asm": [
+{
+"label": "SFX_Cry11_1_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry11_1_Ch6",
+"ch": 6,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry11_1_Ch8",
+"ch": 8,
+"bytes": 22,
+"music": false,
+"square": 0,
+"noise": 7,
+"notes": 0,
+"loops": 0
+}
+],
+"cry11_2.asm": [
+{
+"label": "SFX_Cry11_2_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry11_2_Ch6",
+"ch": 6,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry11_2_Ch8",
+"ch": 8,
+"bytes": 22,
+"music": false,
+"square": 0,
+"noise": 7,
+"notes": 0,
+"loops": 0
+}
+],
+"cry11_3.asm": [
+{
+"label": "SFX_Cry11_3_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry11_3_Ch6",
+"ch": 6,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry11_3_Ch8",
+"ch": 8,
+"bytes": 22,
+"music": false,
+"square": 0,
+"noise": 7,
+"notes": 0,
+"loops": 0
+}
+],
+"cry12_1.asm": [
+{
+"label": "SFX_Cry12_1_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry12_1_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry12_1_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry12_2.asm": [
+{
+"label": "SFX_Cry12_2_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry12_2_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry12_2_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry12_3.asm": [
+{
+"label": "SFX_Cry12_3_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry12_3_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry12_3_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry13_1.asm": [
+{
+"label": "SFX_Cry13_1_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry13_1_Ch6",
+"ch": 6,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry13_1_Ch8",
+"ch": 8,
+"bytes": 19,
+"music": false,
+"square": 0,
+"noise": 6,
+"notes": 0,
+"loops": 0
+}
+],
+"cry13_2.asm": [
+{
+"label": "SFX_Cry13_2_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry13_2_Ch6",
+"ch": 6,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry13_2_Ch8",
+"ch": 8,
+"bytes": 19,
+"music": false,
+"square": 0,
+"noise": 6,
+"notes": 0,
+"loops": 0
+}
+],
+"cry13_3.asm": [
+{
+"label": "SFX_Cry13_3_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry13_3_Ch6",
+"ch": 6,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry13_3_Ch8",
+"ch": 8,
+"bytes": 19,
+"music": false,
+"square": 0,
+"noise": 6,
+"notes": 0,
+"loops": 0
+}
+],
+"cry14_1.asm": [
+{
+"label": "SFX_Cry14_1_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry14_1_Ch6",
+"ch": 6,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry14_1_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"cry14_2.asm": [
+{
+"label": "SFX_Cry14_2_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry14_2_Ch6",
+"ch": 6,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry14_2_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"cry14_3.asm": [
+{
+"label": "SFX_Cry14_3_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry14_3_Ch6",
+"ch": 6,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry14_3_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"cry15_1.asm": [
+{
+"label": "SFX_Cry15_1_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry15_1_Ch6",
+"ch": 6,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry15_1_Ch8",
+"ch": 8,
+"bytes": 19,
+"music": false,
+"square": 0,
+"noise": 6,
+"notes": 0,
+"loops": 0
+}
+],
+"cry15_2.asm": [
+{
+"label": "SFX_Cry15_2_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry15_2_Ch6",
+"ch": 6,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry15_2_Ch8",
+"ch": 8,
+"bytes": 19,
+"music": false,
+"square": 0,
+"noise": 6,
+"notes": 0,
+"loops": 0
+}
+],
+"cry15_3.asm": [
+{
+"label": "SFX_Cry15_3_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry15_3_Ch6",
+"ch": 6,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry15_3_Ch8",
+"ch": 8,
+"bytes": 19,
+"music": false,
+"square": 0,
+"noise": 6,
+"notes": 0,
+"loops": 0
+}
+],
+"cry16_1.asm": [
+{
+"label": "SFX_Cry16_1_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry16_1_Ch6",
+"ch": 6,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry16_1_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"cry16_2.asm": [
+{
+"label": "SFX_Cry16_2_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry16_2_Ch6",
+"ch": 6,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry16_2_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"cry16_3.asm": [
+{
+"label": "SFX_Cry16_3_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry16_3_Ch6",
+"ch": 6,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry16_3_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"cry17_1.asm": [
+{
+"label": "SFX_Cry17_1_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry17_1_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry17_1_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry17_2.asm": [
+{
+"label": "SFX_Cry17_2_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry17_2_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry17_2_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry17_3.asm": [
+{
+"label": "SFX_Cry17_3_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry17_3_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry17_3_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry18_1.asm": [
+{
+"label": "SFX_Cry18_1_Ch5",
+"ch": 5,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry18_1_Ch6",
+"ch": 6,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry18_1_Ch8",
+"ch": 8,
+"bytes": 19,
+"music": false,
+"square": 0,
+"noise": 6,
+"notes": 0,
+"loops": 0
+}
+],
+"cry18_2.asm": [
+{
+"label": "SFX_Cry18_2_Ch5",
+"ch": 5,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry18_2_Ch6",
+"ch": 6,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry18_2_Ch8",
+"ch": 8,
+"bytes": 19,
+"music": false,
+"square": 0,
+"noise": 6,
+"notes": 0,
+"loops": 0
+}
+],
+"cry18_3.asm": [
+{
+"label": "SFX_Cry18_3_Ch5",
+"ch": 5,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry18_3_Ch6",
+"ch": 6,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry18_3_Ch8",
+"ch": 8,
+"bytes": 19,
+"music": false,
+"square": 0,
+"noise": 6,
+"notes": 0,
+"loops": 0
+}
+],
+"cry19_1.asm": [
+{
+"label": "SFX_Cry19_1_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry19_1_Ch6",
+"ch": 6,
+"bytes": 18,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry19_1_Ch8",
+"ch": 8,
+"bytes": 1,
+"music": false,
+"square": 0,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"cry19_2.asm": [
+{
+"label": "SFX_Cry19_2_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry19_2_Ch6",
+"ch": 6,
+"bytes": 18,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry19_2_Ch8",
+"ch": 8,
+"bytes": 1,
+"music": false,
+"square": 0,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"cry19_3.asm": [
+{
+"label": "SFX_Cry19_3_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry19_3_Ch6",
+"ch": 6,
+"bytes": 18,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry19_3_Ch8",
+"ch": 8,
+"bytes": 1,
+"music": false,
+"square": 0,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"cry1a_1.asm": [
+{
+"label": "SFX_Cry1A_1_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1A_1_Ch6",
+"ch": 6,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1A_1_Ch8",
+"ch": 8,
+"bytes": 19,
+"music": false,
+"square": 0,
+"noise": 6,
+"notes": 0,
+"loops": 0
+}
+],
+"cry1a_2.asm": [
+{
+"label": "SFX_Cry1A_2_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1A_2_Ch6",
+"ch": 6,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1A_2_Ch8",
+"ch": 8,
+"bytes": 19,
+"music": false,
+"square": 0,
+"noise": 6,
+"notes": 0,
+"loops": 0
+}
+],
+"cry1a_3.asm": [
+{
+"label": "SFX_Cry1A_3_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1A_3_Ch6",
+"ch": 6,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1A_3_Ch8",
+"ch": 8,
+"bytes": 19,
+"music": false,
+"square": 0,
+"noise": 6,
+"notes": 0,
+"loops": 0
+}
+],
+"cry1b_1.asm": [
+{
+"label": "SFX_Cry1B_1_Ch5",
+"ch": 5,
+"bytes": 23,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1B_1_Ch6",
+"ch": 6,
+"bytes": 23,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1B_1_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry1b_2.asm": [
+{
+"label": "SFX_Cry1B_2_Ch5",
+"ch": 5,
+"bytes": 23,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1B_2_Ch6",
+"ch": 6,
+"bytes": 23,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1B_2_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry1b_3.asm": [
+{
+"label": "SFX_Cry1B_3_Ch5",
+"ch": 5,
+"bytes": 23,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1B_3_Ch6",
+"ch": 6,
+"bytes": 23,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1B_3_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry1c_1.asm": [
+{
+"label": "SFX_Cry1C_1_Ch5",
+"ch": 5,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1C_1_Ch6",
+"ch": 6,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1C_1_Ch8",
+"ch": 8,
+"bytes": 16,
+"music": false,
+"square": 0,
+"noise": 5,
+"notes": 0,
+"loops": 0
+}
+],
+"cry1c_2.asm": [
+{
+"label": "SFX_Cry1C_2_Ch5",
+"ch": 5,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1C_2_Ch6",
+"ch": 6,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1C_2_Ch8",
+"ch": 8,
+"bytes": 16,
+"music": false,
+"square": 0,
+"noise": 5,
+"notes": 0,
+"loops": 0
+}
+],
+"cry1c_3.asm": [
+{
+"label": "SFX_Cry1C_3_Ch5",
+"ch": 5,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1C_3_Ch6",
+"ch": 6,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1C_3_Ch8",
+"ch": 8,
+"bytes": 16,
+"music": false,
+"square": 0,
+"noise": 5,
+"notes": 0,
+"loops": 0
+}
+],
+"cry1d_1.asm": [
+{
+"label": "SFX_Cry1D_1_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1D_1_Ch6",
+"ch": 6,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1D_1_Ch8",
+"ch": 8,
+"bytes": 16,
+"music": false,
+"square": 0,
+"noise": 5,
+"notes": 0,
+"loops": 0
+}
+],
+"cry1d_2.asm": [
+{
+"label": "SFX_Cry1D_2_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1D_2_Ch6",
+"ch": 6,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1D_2_Ch8",
+"ch": 8,
+"bytes": 16,
+"music": false,
+"square": 0,
+"noise": 5,
+"notes": 0,
+"loops": 0
+}
+],
+"cry1d_3.asm": [
+{
+"label": "SFX_Cry1D_3_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1D_3_Ch6",
+"ch": 6,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1D_3_Ch8",
+"ch": 8,
+"bytes": 16,
+"music": false,
+"square": 0,
+"noise": 5,
+"notes": 0,
+"loops": 0
+}
+],
+"cry1e_1.asm": [
+{
+"label": "SFX_Cry1E_1_Ch5",
+"ch": 5,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1E_1_Ch6",
+"ch": 6,
+"bytes": 39,
+"music": false,
+"square": 9,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1E_1_Ch8",
+"ch": 8,
+"bytes": 28,
+"music": false,
+"square": 0,
+"noise": 9,
+"notes": 0,
+"loops": 0
+}
+],
+"cry1e_2.asm": [
+{
+"label": "SFX_Cry1E_2_Ch5",
+"ch": 5,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1E_2_Ch6",
+"ch": 6,
+"bytes": 39,
+"music": false,
+"square": 9,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1E_2_Ch8",
+"ch": 8,
+"bytes": 28,
+"music": false,
+"square": 0,
+"noise": 9,
+"notes": 0,
+"loops": 0
+}
+],
+"cry1e_3.asm": [
+{
+"label": "SFX_Cry1E_3_Ch5",
+"ch": 5,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1E_3_Ch6",
+"ch": 6,
+"bytes": 39,
+"music": false,
+"square": 9,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1E_3_Ch8",
+"ch": 8,
+"bytes": 28,
+"music": false,
+"square": 0,
+"noise": 9,
+"notes": 0,
+"loops": 0
+}
+],
+"cry1f_1.asm": [
+{
+"label": "SFX_Cry1F_1_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1F_1_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1F_1_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry1f_2.asm": [
+{
+"label": "SFX_Cry1F_2_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1F_2_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1F_2_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry1f_3.asm": [
+{
+"label": "SFX_Cry1F_3_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1F_3_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry1F_3_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry20_1.asm": [
+{
+"label": "SFX_Cry20_1_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry20_1_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry20_1_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry20_2.asm": [
+{
+"label": "SFX_Cry20_2_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry20_2_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry20_2_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry20_3.asm": [
+{
+"label": "SFX_Cry20_3_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry20_3_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry20_3_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry21_1.asm": [
+{
+"label": "SFX_Cry21_1_Ch5",
+"ch": 5,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry21_1_Ch6",
+"ch": 6,
+"bytes": 34,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry21_1_Ch8",
+"ch": 8,
+"bytes": 1,
+"music": false,
+"square": 0,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"cry21_2.asm": [
+{
+"label": "SFX_Cry21_2_Ch5",
+"ch": 5,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry21_2_Ch6",
+"ch": 6,
+"bytes": 34,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry21_2_Ch8",
+"ch": 8,
+"bytes": 1,
+"music": false,
+"square": 0,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"cry21_3.asm": [
+{
+"label": "SFX_Cry21_3_Ch5",
+"ch": 5,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry21_3_Ch6",
+"ch": 6,
+"bytes": 34,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry21_3_Ch8",
+"ch": 8,
+"bytes": 1,
+"music": false,
+"square": 0,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"cry22_1.asm": [
+{
+"label": "SFX_Cry22_1_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry22_1_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry22_1_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry22_2.asm": [
+{
+"label": "SFX_Cry22_2_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry22_2_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry22_2_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry22_3.asm": [
+{
+"label": "SFX_Cry22_3_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry22_3_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry22_3_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry23_1.asm": [
+{
+"label": "SFX_Cry23_1_Ch5",
+"ch": 5,
+"bytes": 23,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry23_1_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry23_1_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry23_2.asm": [
+{
+"label": "SFX_Cry23_2_Ch5",
+"ch": 5,
+"bytes": 23,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry23_2_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry23_2_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry23_3.asm": [
+{
+"label": "SFX_Cry23_3_Ch5",
+"ch": 5,
+"bytes": 23,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry23_3_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry23_3_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry24_1.asm": [
+{
+"label": "SFX_Cry24_1_Ch5",
+"ch": 5,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry24_1_Ch6",
+"ch": 6,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry24_1_Ch8",
+"ch": 8,
+"bytes": 16,
+"music": false,
+"square": 0,
+"noise": 5,
+"notes": 0,
+"loops": 0
+}
+],
+"cry24_2.asm": [
+{
+"label": "SFX_Cry24_2_Ch5",
+"ch": 5,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry24_2_Ch6",
+"ch": 6,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry24_2_Ch8",
+"ch": 8,
+"bytes": 16,
+"music": false,
+"square": 0,
+"noise": 5,
+"notes": 0,
+"loops": 0
+}
+],
+"cry24_3.asm": [
+{
+"label": "SFX_Cry24_3_Ch5",
+"ch": 5,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry24_3_Ch6",
+"ch": 6,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry24_3_Ch8",
+"ch": 8,
+"bytes": 16,
+"music": false,
+"square": 0,
+"noise": 5,
+"notes": 0,
+"loops": 0
+}
+],
+"cry25_1.asm": [
+{
+"label": "SFX_Cry25_1_Ch5",
+"ch": 5,
+"bytes": 23,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry25_1_Ch6",
+"ch": 6,
+"bytes": 23,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry25_1_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry25_2.asm": [
+{
+"label": "SFX_Cry25_2_Ch5",
+"ch": 5,
+"bytes": 23,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry25_2_Ch6",
+"ch": 6,
+"bytes": 23,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry25_2_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cry25_3.asm": [
+{
+"label": "SFX_Cry25_3_Ch5",
+"ch": 5,
+"bytes": 23,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry25_3_Ch6",
+"ch": 6,
+"bytes": 23,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Cry25_3_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"cut_1.asm": [
+{
+"label": "SFX_Cut_1_Ch8",
+"ch": 8,
+"bytes": 16,
+"music": false,
+"square": 0,
+"noise": 5,
+"notes": 0,
+"loops": 0
+}
+],
+"cut_3.asm": [
+{
+"label": "SFX_Cut_3_Ch8",
+"ch": 8,
+"bytes": 16,
+"music": false,
+"square": 0,
+"noise": 5,
+"notes": 0,
+"loops": 0
+}
+],
+"damage.asm": [
+{
+"label": "SFX_Damage_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"denied_1.asm": [
+{
+"label": "SFX_Denied_1_Ch5",
+"ch": 5,
+"bytes": 23,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Denied_1_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"denied_3.asm": [
+{
+"label": "SFX_Denied_3_Ch5",
+"ch": 5,
+"bytes": 23,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Denied_3_Ch6",
+"ch": 6,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"dex_page_added.asm": [
+{
+"label": "SFX_Dex_Page_Added_Ch5",
+"ch": 5,
+"bytes": 17,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Dex_Page_Added_Ch6",
+"ch": 6,
+"bytes": 11,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"doubleslap.asm": [
+{
+"label": "SFX_Doubleslap_Ch8",
+"ch": 8,
+"bytes": 7,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 0
+}
+],
+"enter_pc_1.asm": [
+{
+"label": "SFX_Enter_PC_1_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"enter_pc_3.asm": [
+{
+"label": "SFX_Enter_PC_3_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"faint_fall.asm": [
+{
+"label": "SFX_Faint_Fall_Ch5",
+"ch": 5,
+"bytes": 11,
+"music": false,
+"square": 1,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"faint_thud.asm": [
+{
+"label": "SFX_Faint_Thud_Ch5",
+"ch": 5,
+"bytes": 7,
+"music": false,
+"square": 1,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Faint_Thud_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"fly_1.asm": [
+{
+"label": "SFX_Fly_1_Ch8",
+"ch": 8,
+"bytes": 49,
+"music": false,
+"square": 0,
+"noise": 16,
+"notes": 0,
+"loops": 0
+}
+],
+"fly_3.asm": [
+{
+"label": "SFX_Fly_3_Ch8",
+"ch": 8,
+"bytes": 49,
+"music": false,
+"square": 0,
+"noise": 16,
+"notes": 0,
+"loops": 0
+}
+],
+"get_item1_1.asm": [
+{
+"label": "SFX_Get_Item1_1_Ch5",
+"ch": 5,
+"bytes": 23,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 4,
+"loops": 0
+},
+{
+"label": "SFX_Get_Item1_1_Ch6",
+"ch": 6,
+"bytes": 16,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 4,
+"loops": 0
+},
+{
+"label": "SFX_Get_Item1_1_Ch7",
+"ch": 7,
+"bytes": 16,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 4,
+"loops": 0
+}
+],
+"get_item1_3.asm": [
+{
+"label": "SFX_Get_Item1_3_Ch5",
+"ch": 5,
+"bytes": 23,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 4,
+"loops": 0
+},
+{
+"label": "SFX_Get_Item1_3_Ch6",
+"ch": 6,
+"bytes": 16,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 4,
+"loops": 0
+},
+{
+"label": "SFX_Get_Item1_3_Ch7",
+"ch": 7,
+"bytes": 16,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 4,
+"loops": 0
+}
+],
+"get_item2_1.asm": [
+{
+"label": "SFX_Get_Item2_1_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 10,
+"loops": 0
+},
+{
+"label": "SFX_Get_Item2_1_Ch6",
+"ch": 6,
+"bytes": 24,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 10,
+"loops": 0
+},
+{
+"label": "SFX_Get_Item2_1_Ch7",
+"ch": 7,
+"bytes": 21,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 10,
+"loops": 0
+}
+],
+"get_item2_2.asm": [
+{
+"label": "SFX_Get_Item2_2_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 10,
+"loops": 0
+},
+{
+"label": "SFX_Get_Item2_2_Ch6",
+"ch": 6,
+"bytes": 24,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 10,
+"loops": 0
+},
+{
+"label": "SFX_Get_Item2_2_Ch7",
+"ch": 7,
+"bytes": 21,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 10,
+"loops": 0
+}
+],
+"get_item2_3.asm": [
+{
+"label": "SFX_Get_Item2_3_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 10,
+"loops": 0
+},
+{
+"label": "SFX_Get_Item2_3_Ch6",
+"ch": 6,
+"bytes": 24,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 10,
+"loops": 0
+},
+{
+"label": "SFX_Get_Item2_3_Ch7",
+"ch": 7,
+"bytes": 21,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 10,
+"loops": 0
+}
+],
+"get_key_item_1.asm": [
+{
+"label": "SFX_Get_Key_Item_1_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 9,
+"loops": 0
+},
+{
+"label": "SFX_Get_Key_Item_1_Ch6",
+"ch": 6,
+"bytes": 28,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 11,
+"loops": 0
+},
+{
+"label": "SFX_Get_Key_Item_1_Ch7",
+"ch": 7,
+"bytes": 10,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 5,
+"loops": 0
+}
+],
+"get_key_item_3.asm": [
+{
+"label": "SFX_Get_Key_Item_3_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 9,
+"loops": 0
+},
+{
+"label": "SFX_Get_Key_Item_3_Ch6",
+"ch": 6,
+"bytes": 28,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 11,
+"loops": 0
+},
+{
+"label": "SFX_Get_Key_Item_3_Ch7",
+"ch": 7,
+"bytes": 10,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 5,
+"loops": 0
+}
+],
+"go_inside_1.asm": [
+{
+"label": "SFX_Go_Inside_1_Ch8",
+"ch": 8,
+"bytes": 7,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 0
+}
+],
+"go_inside_3.asm": [
+{
+"label": "SFX_Go_Inside_3_Ch8",
+"ch": 8,
+"bytes": 7,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 0
+}
+],
+"go_outside_1.asm": [
+{
+"label": "SFX_Go_Outside_1_Ch8",
+"ch": 8,
+"bytes": 16,
+"music": false,
+"square": 0,
+"noise": 5,
+"notes": 0,
+"loops": 0
+}
+],
+"go_outside_3.asm": [
+{
+"label": "SFX_Go_Outside_3_Ch8",
+"ch": 8,
+"bytes": 16,
+"music": false,
+"square": 0,
+"noise": 5,
+"notes": 0,
+"loops": 0
+}
+],
+"heal_ailment_1.asm": [
+{
+"label": "SFX_Heal_Ailment_1_Ch5",
+"ch": 5,
+"bytes": 21,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"heal_ailment_2.asm": [
+{
+"label": "SFX_Heal_Ailment_2_Ch5",
+"ch": 5,
+"bytes": 21,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"heal_ailment_3.asm": [
+{
+"label": "SFX_Heal_Ailment_3_Ch5",
+"ch": 5,
+"bytes": 21,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"heal_hp_1.asm": [
+{
+"label": "SFX_Heal_HP_1_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"heal_hp_2.asm": [
+{
+"label": "SFX_Heal_HP_2_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"heal_hp_3.asm": [
+{
+"label": "SFX_Heal_HP_3_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"healing_machine_1.asm": [
+{
+"label": "SFX_Healing_Machine_1_Ch5",
+"ch": 5,
+"bytes": 21,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"healing_machine_3.asm": [
+{
+"label": "SFX_Healing_Machine_3_Ch5",
+"ch": 5,
+"bytes": 21,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"horn_drill.asm": [
+{
+"label": "SFX_Horn_Drill_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"intro_crash.asm": [
+{
+"label": "SFX_Intro_Crash_Ch8",
+"ch": 8,
+"bytes": 7,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 0
+}
+],
+"intro_hip.asm": [
+{
+"label": "SFX_Intro_Hip_Ch5",
+"ch": 5,
+"bytes": 11,
+"music": false,
+"square": 1,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"intro_hop.asm": [
+{
+"label": "SFX_Intro_Hop_Ch5",
+"ch": 5,
+"bytes": 11,
+"music": false,
+"square": 1,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"intro_lunge.asm": [
+{
+"label": "SFX_Intro_Lunge_Ch8",
+"ch": 8,
+"bytes": 25,
+"music": false,
+"square": 0,
+"noise": 8,
+"notes": 0,
+"loops": 0
+}
+],
+"intro_raise.asm": [
+{
+"label": "SFX_Intro_Raise_Ch8",
+"ch": 8,
+"bytes": 10,
+"music": false,
+"square": 0,
+"noise": 3,
+"notes": 0,
+"loops": 0
+}
+],
+"intro_whoosh.asm": [
+{
+"label": "SFX_Intro_Whoosh_Ch8",
+"ch": 8,
+"bytes": 16,
+"music": false,
+"square": 0,
+"noise": 5,
+"notes": 0,
+"loops": 0
+}
+],
+"ledge_1.asm": [
+{
+"label": "SFX_Ledge_1_Ch5",
+"ch": 5,
+"bytes": 11,
+"music": false,
+"square": 1,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"ledge_3.asm": [
+{
+"label": "SFX_Ledge_3_Ch5",
+"ch": 5,
+"bytes": 11,
+"music": false,
+"square": 1,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"level_up.asm": [
+{
+"label": "SFX_Level_Up_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 8,
+"loops": 0
+},
+{
+"label": "SFX_Level_Up_Ch6",
+"ch": 6,
+"bytes": 24,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 8,
+"loops": 0
+},
+{
+"label": "SFX_Level_Up_Ch7",
+"ch": 7,
+"bytes": 23,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 8,
+"loops": 0
+}
+],
+"noise_instrument01_1.asm": [
+{
+"label": "SFX_Noise_Instrument01_1_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument01_2.asm": [
+{
+"label": "SFX_Noise_Instrument01_2_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument01_3.asm": [
+{
+"label": "SFX_Noise_Instrument01_3_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument02_1.asm": [
+{
+"label": "SFX_Noise_Instrument02_1_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument02_2.asm": [
+{
+"label": "SFX_Noise_Instrument02_2_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument02_3.asm": [
+{
+"label": "SFX_Noise_Instrument02_3_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument03_1.asm": [
+{
+"label": "SFX_Noise_Instrument03_1_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument03_2.asm": [
+{
+"label": "SFX_Noise_Instrument03_2_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument03_3.asm": [
+{
+"label": "SFX_Noise_Instrument03_3_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument04_1.asm": [
+{
+"label": "SFX_Noise_Instrument04_1_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument04_2.asm": [
+{
+"label": "SFX_Noise_Instrument04_2_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument04_3.asm": [
+{
+"label": "SFX_Noise_Instrument04_3_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument05_1.asm": [
+{
+"label": "SFX_Noise_Instrument05_1_Ch8",
+"ch": 8,
+"bytes": 19,
+"music": false,
+"square": 0,
+"noise": 6,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument05_2.asm": [
+{
+"label": "SFX_Noise_Instrument05_2_Ch8",
+"ch": 8,
+"bytes": 19,
+"music": false,
+"square": 0,
+"noise": 6,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument05_3.asm": [
+{
+"label": "SFX_Noise_Instrument05_3_Ch8",
+"ch": 8,
+"bytes": 19,
+"music": false,
+"square": 0,
+"noise": 6,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument06_1.asm": [
+{
+"label": "SFX_Noise_Instrument06_1_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument06_2.asm": [
+{
+"label": "SFX_Noise_Instrument06_2_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument06_3.asm": [
+{
+"label": "SFX_Noise_Instrument06_3_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument07_1.asm": [
+{
+"label": "SFX_Noise_Instrument07_1_Ch8",
+"ch": 8,
+"bytes": 7,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument07_2.asm": [
+{
+"label": "SFX_Noise_Instrument07_2_Ch8",
+"ch": 8,
+"bytes": 7,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument07_3.asm": [
+{
+"label": "SFX_Noise_Instrument07_3_Ch8",
+"ch": 8,
+"bytes": 7,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument08_1.asm": [
+{
+"label": "SFX_Noise_Instrument08_1_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument08_2.asm": [
+{
+"label": "SFX_Noise_Instrument08_2_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument08_3.asm": [
+{
+"label": "SFX_Noise_Instrument08_3_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument09_1.asm": [
+{
+"label": "SFX_Noise_Instrument09_1_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument09_2.asm": [
+{
+"label": "SFX_Noise_Instrument09_2_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument09_3.asm": [
+{
+"label": "SFX_Noise_Instrument09_3_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument10_1.asm": [
+{
+"label": "SFX_Noise_Instrument10_1_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument10_2.asm": [
+{
+"label": "SFX_Noise_Instrument10_2_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument10_3.asm": [
+{
+"label": "SFX_Noise_Instrument10_3_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument11_1.asm": [
+{
+"label": "SFX_Noise_Instrument11_1_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument11_2.asm": [
+{
+"label": "SFX_Noise_Instrument11_2_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument11_3.asm": [
+{
+"label": "SFX_Noise_Instrument11_3_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument12_1.asm": [
+{
+"label": "SFX_Noise_Instrument12_1_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument12_2.asm": [
+{
+"label": "SFX_Noise_Instrument12_2_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument12_3.asm": [
+{
+"label": "SFX_Noise_Instrument12_3_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument13_1.asm": [
+{
+"label": "SFX_Noise_Instrument13_1_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument13_2.asm": [
+{
+"label": "SFX_Noise_Instrument13_2_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument13_3.asm": [
+{
+"label": "SFX_Noise_Instrument13_3_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument14_1.asm": [
+{
+"label": "SFX_Noise_Instrument14_1_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument14_2.asm": [
+{
+"label": "SFX_Noise_Instrument14_2_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument14_3.asm": [
+{
+"label": "SFX_Noise_Instrument14_3_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument15_1.asm": [
+{
+"label": "SFX_Noise_Instrument15_1_Ch8",
+"ch": 8,
+"bytes": 7,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument15_2.asm": [
+{
+"label": "SFX_Noise_Instrument15_2_Ch8",
+"ch": 8,
+"bytes": 7,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument15_3.asm": [
+{
+"label": "SFX_Noise_Instrument15_3_Ch8",
+"ch": 8,
+"bytes": 7,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument16_1.asm": [
+{
+"label": "SFX_Noise_Instrument16_1_Ch8",
+"ch": 8,
+"bytes": 7,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument16_2.asm": [
+{
+"label": "SFX_Noise_Instrument16_2_Ch8",
+"ch": 8,
+"bytes": 7,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument16_3.asm": [
+{
+"label": "SFX_Noise_Instrument16_3_Ch8",
+"ch": 8,
+"bytes": 7,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument17_1.asm": [
+{
+"label": "SFX_Noise_Instrument17_1_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument17_2.asm": [
+{
+"label": "SFX_Noise_Instrument17_2_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument17_3.asm": [
+{
+"label": "SFX_Noise_Instrument17_3_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument18_1.asm": [
+{
+"label": "SFX_Noise_Instrument18_1_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument18_2.asm": [
+{
+"label": "SFX_Noise_Instrument18_2_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument18_3.asm": [
+{
+"label": "SFX_Noise_Instrument18_3_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument19_1.asm": [
+{
+"label": "SFX_Noise_Instrument19_1_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument19_2.asm": [
+{
+"label": "SFX_Noise_Instrument19_2_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"noise_instrument19_3.asm": [
+{
+"label": "SFX_Noise_Instrument19_3_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"not_very_effective.asm": [
+{
+"label": "SFX_Not_Very_Effective_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"peck.asm": [
+{
+"label": "SFX_Peck_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"poisoned_1.asm": [
+{
+"label": "SFX_Poisoned_1_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 1
+}
+],
+"poisoned_3.asm": [
+{
+"label": "SFX_Poisoned_3_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 1
+}
+],
+"pokedex_rating_1.asm": [
+{
+"label": "SFX_Pokedex_Rating_1_Ch5",
+"ch": 5,
+"bytes": 25,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 11,
+"loops": 0
+},
+{
+"label": "SFX_Pokedex_Rating_1_Ch6",
+"ch": 6,
+"bytes": 22,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 11,
+"loops": 0
+},
+{
+"label": "SFX_Pokedex_Rating_1_Ch7",
+"ch": 7,
+"bytes": 31,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 11,
+"loops": 0
+}
+],
+"pokedex_rating_3.asm": [
+{
+"label": "SFX_Pokedex_Rating_3_Ch5",
+"ch": 5,
+"bytes": 25,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 11,
+"loops": 0
+},
+{
+"label": "SFX_Pokedex_Rating_3_Ch6",
+"ch": 6,
+"bytes": 22,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 11,
+"loops": 0
+},
+{
+"label": "SFX_Pokedex_Rating_3_Ch7",
+"ch": 7,
+"bytes": 31,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 11,
+"loops": 0
+}
+],
+"pokeflute.asm": [
+{
+"label": "SFX_Pokeflute_Ch3",
+"ch": 3,
+"bytes": 23,
+"music": false,
+"square": 0,
+"noise": 0,
+"notes": 13,
+"loops": 0
+}
+],
+"pokeflute_ch5_ch6.asm": [
+{
+"label": "SFX_Pokeflute_Ch5",
+"ch": 5,
+"bytes": 3,
+"music": false,
+"square": 0,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Pokeflute_Ch6",
+"ch": 6,
+"bytes": 10,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"pokeflute_ch7.asm": [
+{
+"label": "SFX_Pokeflute_Ch7",
+"ch": 7,
+"bytes": 15,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 6,
+"loops": 0
+}
+],
+"pound.asm": [
+{
+"label": "SFX_Pound_Ch8",
+"ch": 8,
+"bytes": 4,
+"music": false,
+"square": 0,
+"noise": 1,
+"notes": 0,
+"loops": 0
+}
+],
+"press_ab_1.asm": [
+{
+"label": "SFX_Press_AB_1_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"press_ab_2.asm": [
+{
+"label": "SFX_Press_AB_2_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"press_ab_3.asm": [
+{
+"label": "SFX_Press_AB_3_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"psybeam.asm": [
+{
+"label": "SFX_Psybeam_Ch5",
+"ch": 5,
+"bytes": 23,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 1
+},
+{
+"label": "SFX_Psybeam_Ch6",
+"ch": 6,
+"bytes": 23,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 1
+},
+{
+"label": "SFX_Psybeam_Ch8",
+"ch": 8,
+"bytes": 11,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 1
+}
+],
+"psychic_m.asm": [
+{
+"label": "SFX_Psychic_M_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Psychic_M_Ch6",
+"ch": 6,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Psychic_M_Ch8",
+"ch": 8,
+"bytes": 19,
+"music": false,
+"square": 0,
+"noise": 6,
+"notes": 0,
+"loops": 0
+}
+],
+"purchase_1.asm": [
+{
+"label": "SFX_Purchase_1_Ch5",
+"ch": 5,
+"bytes": 11,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Purchase_1_Ch6",
+"ch": 6,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"purchase_3.asm": [
+{
+"label": "SFX_Purchase_3_Ch5",
+"ch": 5,
+"bytes": 11,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Purchase_3_Ch6",
+"ch": 6,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"push_boulder_1.asm": [
+{
+"label": "SFX_Push_Boulder_1_Ch8",
+"ch": 8,
+"bytes": 25,
+"music": false,
+"square": 0,
+"noise": 8,
+"notes": 0,
+"loops": 0
+}
+],
+"push_boulder_3.asm": [
+{
+"label": "SFX_Push_Boulder_3_Ch8",
+"ch": 8,
+"bytes": 25,
+"music": false,
+"square": 0,
+"noise": 8,
+"notes": 0,
+"loops": 0
+}
+],
+"run.asm": [
+{
+"label": "SFX_Run_Ch8",
+"ch": 8,
+"bytes": 34,
+"music": false,
+"square": 0,
+"noise": 11,
+"notes": 0,
+"loops": 0
+}
+],
+"safari_zone_pa.asm": [
+{
+"label": "SFX_Safari_Zone_PA_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"save_1.asm": [
+{
+"label": "SFX_Save_1_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Save_1_Ch6",
+"ch": 6,
+"bytes": 35,
+"music": false,
+"square": 8,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"save_3.asm": [
+{
+"label": "SFX_Save_3_Ch5",
+"ch": 5,
+"bytes": 43,
+"music": false,
+"square": 10,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Save_3_Ch6",
+"ch": 6,
+"bytes": 51,
+"music": false,
+"square": 12,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"shooting_star.asm": [
+{
+"label": "SFX_Shooting_Star_Ch5",
+"ch": 5,
+"bytes": 43,
+"music": false,
+"square": 9,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"shrink_1.asm": [
+{
+"label": "SFX_Shrink_1_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"shrink_3.asm": [
+{
+"label": "SFX_Shrink_3_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"slots_new_spin.asm": [
+{
+"label": "SFX_Slots_New_Spin_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Slots_New_Spin_Ch6",
+"ch": 6,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"slots_reward.asm": [
+{
+"label": "SFX_Slots_Reward_Ch5",
+"ch": 5,
+"bytes": 11,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"slots_stop_wheel.asm": [
+{
+"label": "SFX_Slots_Stop_Wheel_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 3,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"ss_anne_horn_1.asm": [
+{
+"label": "SFX_SS_Anne_Horn_1_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_SS_Anne_Horn_1_Ch6",
+"ch": 6,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"ss_anne_horn_3.asm": [
+{
+"label": "SFX_SS_Anne_Horn_3_Ch5",
+"ch": 5,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_SS_Anne_Horn_3_Ch6",
+"ch": 6,
+"bytes": 31,
+"music": false,
+"square": 7,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"start_menu_1.asm": [
+{
+"label": "SFX_Start_Menu_1_Ch8",
+"ch": 8,
+"bytes": 7,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 0
+}
+],
+"start_menu_2.asm": [
+{
+"label": "SFX_Start_Menu_2_Ch8",
+"ch": 8,
+"bytes": 7,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 0
+}
+],
+"start_menu_3.asm": [
+{
+"label": "SFX_Start_Menu_3_Ch8",
+"ch": 8,
+"bytes": 7,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 0
+}
+],
+"super_effective.asm": [
+{
+"label": "SFX_Super_Effective_Ch8",
+"ch": 8,
+"bytes": 7,
+"music": false,
+"square": 0,
+"noise": 2,
+"notes": 0,
+"loops": 0
+}
+],
+"swap_1.asm": [
+{
+"label": "SFX_Swap_1_Ch5",
+"ch": 5,
+"bytes": 7,
+"music": false,
+"square": 1,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Swap_1_Ch6",
+"ch": 6,
+"bytes": 11,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"swap_3.asm": [
+{
+"label": "SFX_Swap_3_Ch5",
+"ch": 5,
+"bytes": 7,
+"music": false,
+"square": 1,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_Swap_3_Ch6",
+"ch": 6,
+"bytes": 11,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"switch_1.asm": [
+{
+"label": "SFX_Switch_1_Ch5",
+"ch": 5,
+"bytes": 23,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"switch_3.asm": [
+{
+"label": "SFX_Switch_3_Ch5",
+"ch": 5,
+"bytes": 23,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"teleport_enter1_1.asm": [
+{
+"label": "SFX_Teleport_Enter1_1_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"teleport_enter1_3.asm": [
+{
+"label": "SFX_Teleport_Enter1_3_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"teleport_enter2_1.asm": [
+{
+"label": "SFX_Teleport_Enter2_1_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"teleport_enter2_3.asm": [
+{
+"label": "SFX_Teleport_Enter2_3_Ch8",
+"ch": 8,
+"bytes": 13,
+"music": false,
+"square": 0,
+"noise": 4,
+"notes": 0,
+"loops": 0
+}
+],
+"teleport_exit1_1.asm": [
+{
+"label": "SFX_Teleport_Exit1_1_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"teleport_exit1_3.asm": [
+{
+"label": "SFX_Teleport_Exit1_3_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 5,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"teleport_exit2_1.asm": [
+{
+"label": "SFX_Teleport_Exit2_1_Ch5",
+"ch": 5,
+"bytes": 11,
+"music": false,
+"square": 1,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"teleport_exit2_3.asm": [
+{
+"label": "SFX_Teleport_Exit2_3_Ch5",
+"ch": 5,
+"bytes": 11,
+"music": false,
+"square": 1,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"tink_1.asm": [
+{
+"label": "SFX_Tink_1_Ch5",
+"ch": 5,
+"bytes": 17,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"tink_2.asm": [
+{
+"label": "SFX_Tink_2_Ch5",
+"ch": 5,
+"bytes": 17,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"tink_3.asm": [
+{
+"label": "SFX_Tink_3_Ch5",
+"ch": 5,
+"bytes": 17,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"trade_machine_1.asm": [
+{
+"label": "SFX_Trade_Machine_1_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"trade_machine_3.asm": [
+{
+"label": "SFX_Trade_Machine_3_Ch5",
+"ch": 5,
+"bytes": 15,
+"music": false,
+"square": 2,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"trainer_appeared.asm": [
+{
+"label": "SFX_Trainer_Appeared_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"turn_off_pc_1.asm": [
+{
+"label": "SFX_Turn_Off_PC_1_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"turn_off_pc_3.asm": [
+{
+"label": "SFX_Turn_Off_PC_3_Ch5",
+"ch": 5,
+"bytes": 19,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"turn_on_pc_1.asm": [
+{
+"label": "SFX_Turn_On_PC_1_Ch5",
+"ch": 5,
+"bytes": 43,
+"music": false,
+"square": 10,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"turn_on_pc_3.asm": [
+{
+"label": "SFX_Turn_On_PC_3_Ch5",
+"ch": 5,
+"bytes": 47,
+"music": false,
+"square": 11,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"unused_cry_1.asm": [
+{
+"label": "SFX_UnusedCry_1_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_UnusedCry_1_Ch6",
+"ch": 6,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_UnusedCry_1_Ch8",
+"ch": 8,
+"bytes": 22,
+"music": false,
+"square": 0,
+"noise": 7,
+"notes": 0,
+"loops": 0
+}
+],
+"unused_cry_2.asm": [
+{
+"label": "SFX_UnusedCry_2_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_UnusedCry_2_Ch6",
+"ch": 6,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_UnusedCry_2_Ch8",
+"ch": 8,
+"bytes": 22,
+"music": false,
+"square": 0,
+"noise": 7,
+"notes": 0,
+"loops": 0
+}
+],
+"unused_cry_3.asm": [
+{
+"label": "SFX_UnusedCry_3_Ch5",
+"ch": 5,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_UnusedCry_3_Ch6",
+"ch": 6,
+"bytes": 27,
+"music": false,
+"square": 6,
+"noise": 0,
+"notes": 0,
+"loops": 0
+},
+{
+"label": "SFX_UnusedCry_3_Ch8",
+"ch": 8,
+"bytes": 22,
+"music": false,
+"square": 0,
+"noise": 7,
+"notes": 0,
+"loops": 0
+}
+],
+"unused_fanfare.asm": [
+{
+"label": "SFX_UnusedFanfare_Ch5",
+"ch": 5,
+"bytes": 24,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 5,
+"loops": 0
+},
+{
+"label": "SFX_UnusedFanfare_Ch6",
+"ch": 6,
+"bytes": 18,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 6,
+"loops": 0
+},
+{
+"label": "SFX_UnusedFanfare_Ch7",
+"ch": 7,
+"bytes": 23,
+"music": true,
+"square": 0,
+"noise": 0,
+"notes": 6,
+"loops": 0
+}
+],
+"vine_whip.asm": [
+{
+"label": "SFX_Vine_Whip_Ch8",
+"ch": 8,
+"bytes": 25,
+"music": false,
+"square": 0,
+"noise": 8,
+"notes": 0,
+"loops": 0
+}
+],
+"withdraw_deposit_1.asm": [
+{
+"label": "SFX_Withdraw_Deposit_1_Ch5",
+"ch": 5,
+"bytes": 29,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+],
+"withdraw_deposit_3.asm": [
+{
+"label": "SFX_Withdraw_Deposit_3_Ch5",
+"ch": 5,
+"bytes": 29,
+"music": false,
+"square": 4,
+"noise": 0,
+"notes": 0,
+"loops": 0
+}
+]
+}

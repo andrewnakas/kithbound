@@ -1,0 +1,6 @@
+{
+ "engine/menus/naming_screen.asm|YourTextString|0": "YOUR @",
+ "engine/menus/naming_screen.asm|RivalsTextString|0": "RIVAL's @",
+ "engine/menus/naming_screen.asm|NameTextString|0": "NAME?@",
+ "engine/menus/naming_screen.asm|NicknameTextString|0": "PET NAME?@"
+}

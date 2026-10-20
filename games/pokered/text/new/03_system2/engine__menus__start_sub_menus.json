@@ -1,0 +1,6 @@
+{
+ "engine/menus/start_sub_menus.asm|TrainerInfo_NameMoneyTimeText|0": "NAME/",
+ "engine/menus/start_sub_menus.asm|TrainerInfo_NameMoneyTimeText|1": "FUNDS/",
+ "engine/menus/start_sub_menus.asm|TrainerInfo_NameMoneyTimeText|2": "CLOCK/@",
+ "engine/menus/start_sub_menus.asm|TrainerInfo_BadgesText|0": "BADGES"
+}

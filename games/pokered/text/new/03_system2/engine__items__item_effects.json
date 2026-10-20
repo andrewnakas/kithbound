@@ -1,0 +1,4 @@
+{
+ "engine/items/item_effects.asm|ItemUseMedicine.emptyPartyText|0": "Your team is",
+ "engine/items/item_effects.asm|ItemUseMedicine.emptyPartyText|1": "empty!"
+}

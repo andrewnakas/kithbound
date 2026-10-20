@@ -1,0 +1,7 @@
+{
+ "engine/pokemon/status_ailments.asm|PrintStatusAilment|0": "ZZZ",
+ "engine/pokemon/status_ailments.asm|PrintStatusAilment.psn|0": "TOX",
+ "engine/pokemon/status_ailments.asm|PrintStatusAilment.brn|0": "SCD",
+ "engine/pokemon/status_ailments.asm|PrintStatusAilment.frz|0": "ICE",
+ "engine/pokemon/status_ailments.asm|PrintStatusAilment.par|0": "NUM"
+}

@@ -1,0 +1,6 @@
+{
+ "engine/events/vending_machine.asm|DrinkText|0": "SPRINGWATER",
+ "engine/events/vending_machine.asm|DrinkText|1": "FIZZ",
+ "engine/events/vending_machine.asm|DrinkText|2": "SUNNY PUNCH",
+ "engine/events/vending_machine.asm|DrinkText|3": "BACK@"
+}

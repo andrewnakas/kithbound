@@ -1,0 +1,557 @@
+{
+ "Music_PalletTown": {
+  "file": "pallettown.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 160,
+  "loops": true,
+  "ticks": 3072,
+  "file_bytes": 334
+ },
+ "Music_Pokecenter": {
+  "file": "pokecenter.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 144,
+  "loops": true,
+  "ticks": 3072,
+  "file_bytes": 414
+ },
+ "Music_Gym": {
+  "file": "gym.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 138,
+  "loops": true,
+  "ticks": 3456,
+  "file_bytes": 411
+ },
+ "Music_Cities1": {
+  "file": "cities1.asm",
+  "channels": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "tempo": 232,
+  "loops": true,
+  "ticks": 6144,
+  "file_bytes": 776
+ },
+ "Music_Cities2": {
+  "file": "cities2.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 148,
+  "loops": true,
+  "ticks": 3456,
+  "file_bytes": 451
+ },
+ "Music_Celadon": {
+  "file": "celadon.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 144,
+  "loops": true,
+  "ticks": 3264,
+  "file_bytes": 422
+ },
+ "Music_Cinnabar": {
+  "file": "cinnabar.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 144,
+  "loops": true,
+  "ticks": 2304,
+  "file_bytes": 382
+ },
+ "Music_Vermilion": {
+  "file": "vermilion.asm",
+  "channels": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "tempo": 156,
+  "loops": true,
+  "ticks": 2304,
+  "file_bytes": 365
+ },
+ "Music_Lavender": {
+  "file": "lavender.asm",
+  "channels": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "tempo": 152,
+  "loops": true,
+  "ticks": 6912,
+  "file_bytes": 214
+ },
+ "Music_SSAnne": {
+  "file": "ssanne.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 128,
+  "loops": true,
+  "ticks": 3840,
+  "file_bytes": 349
+ },
+ "Music_MeetProfOak": {
+  "file": "meetprofoak.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 112,
+  "loops": true,
+  "ticks": 3264,
+  "file_bytes": 448
+ },
+ "Music_MeetRival": {
+  "file": "meetrival.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 100,
+  "loops": true,
+  "ticks": 2304,
+  "file_bytes": 431
+ },
+ "Music_MuseumGuy": {
+  "file": "museumguy.asm",
+  "channels": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "tempo": 128,
+  "loops": true,
+  "ticks": 1944,
+  "file_bytes": 427
+ },
+ "Music_SafariZone": {
+  "file": "safarizone.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 132,
+  "loops": true,
+  "ticks": 864,
+  "file_bytes": 141
+ },
+ "Music_PkmnHealed": {
+  "file": "pkmnhealed.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 144,
+  "loops": false,
+  "ticks": 240,
+  "file_bytes": 59
+ },
+ "Music_Routes1": {
+  "file": "routes1.asm",
+  "channels": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "tempo": 152,
+  "loops": true,
+  "ticks": 2304,
+  "file_bytes": 475
+ },
+ "Music_Routes2": {
+  "file": "routes2.asm",
+  "channels": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "tempo": 152,
+  "loops": true,
+  "ticks": 1920,
+  "file_bytes": 500
+ },
+ "Music_Routes3": {
+  "file": "routes3.asm",
+  "channels": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "tempo": 148,
+  "loops": true,
+  "ticks": 2808,
+  "file_bytes": 701
+ },
+ "Music_Routes4": {
+  "file": "routes4.asm",
+  "channels": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "tempo": 148,
+  "loops": true,
+  "ticks": 3456,
+  "file_bytes": 902
+ },
+ "Music_IndigoPlateau": {
+  "file": "indigoplateau.asm",
+  "channels": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "tempo": 132,
+  "loops": true,
+  "ticks": 3456,
+  "file_bytes": 469
+ },
+ "Music_GymLeaderBattle": {
+  "file": "gymleaderbattle.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 104,
+  "loops": true,
+  "ticks": 8448,
+  "file_bytes": 1449
+ },
+ "Music_TrainerBattle": {
+  "file": "trainerbattle.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 112,
+  "loops": true,
+  "ticks": 13248,
+  "file_bytes": 1920
+ },
+ "Music_WildBattle": {
+  "file": "wildbattle.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 104,
+  "loops": true,
+  "ticks": 6528,
+  "file_bytes": 781
+ },
+ "Music_FinalBattle": {
+  "file": "finalbattle.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 112,
+  "loops": true,
+  "ticks": 10176,
+  "file_bytes": 1495
+ },
+ "Music_DefeatedTrainer": {
+  "file": "defeatedtrainer.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 224,
+  "loops": true,
+  "ticks": 864,
+  "file_bytes": 289
+ },
+ "Music_DefeatedWildMon": {
+  "file": "defeatedwildmon.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 112,
+  "loops": true,
+  "ticks": 1728,
+  "file_bytes": 313
+ },
+ "Music_DefeatedGymLeader": {
+  "file": "defeatedgymleader.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 112,
+  "loops": true,
+  "ticks": 4992,
+  "file_bytes": 677
+ },
+ "Music_TitleScreen": {
+  "file": "titlescreen.asm",
+  "channels": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "tempo": 144,
+  "loops": true,
+  "ticks": 5040,
+  "file_bytes": 912
+ },
+ "Music_Credits": {
+  "file": "credits.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 140,
+  "loops": false,
+  "ticks": 10752,
+  "file_bytes": 987
+ },
+ "Music_HallOfFame": {
+  "file": "halloffame.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 112,
+  "loops": true,
+  "ticks": 3840,
+  "file_bytes": 112
+ },
+ "Music_OaksLab": {
+  "file": "oakslab.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 140,
+  "loops": true,
+  "ticks": 3168,
+  "file_bytes": 401
+ },
+ "Music_JigglypuffSong": {
+  "file": "jigglypuffsong.asm",
+  "channels": [
+   1,
+   2
+  ],
+  "tempo": 144,
+  "loops": false,
+  "ticks": 704,
+  "file_bytes": 50
+ },
+ "Music_BikeRiding": {
+  "file": "bikeriding.asm",
+  "channels": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "tempo": 144,
+  "loops": true,
+  "ticks": 3672,
+  "file_bytes": 790
+ },
+ "Music_Surfing": {
+  "file": "surfing.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 160,
+  "loops": true,
+  "ticks": 2616,
+  "file_bytes": 356
+ },
+ "Music_GameCorner": {
+  "file": "gamecorner.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 120,
+  "loops": true,
+  "ticks": 4992,
+  "file_bytes": 693
+ },
+ "Music_IntroBattle": {
+  "file": "introbattle.asm",
+  "channels": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "tempo": 98,
+  "loops": false,
+  "ticks": 1824,
+  "file_bytes": 469
+ },
+ "Music_Dungeon1": {
+  "file": "dungeon1.asm",
+  "channels": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "tempo": 144,
+  "loops": true,
+  "ticks": 7296,
+  "file_bytes": 826
+ },
+ "Music_Dungeon2": {
+  "file": "dungeon2.asm",
+  "channels": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "tempo": 144,
+  "loops": true,
+  "ticks": 10752,
+  "file_bytes": 362
+ },
+ "Music_Dungeon3": {
+  "file": "dungeon3.asm",
+  "channels": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "tempo": 160,
+  "loops": true,
+  "ticks": 7800,
+  "file_bytes": 798
+ },
+ "Music_CinnabarMansion": {
+  "file": "cinnabarmansion.asm",
+  "channels": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "tempo": 144,
+  "loops": true,
+  "ticks": 6912,
+  "file_bytes": 203
+ },
+ "Music_PokemonTower": {
+  "file": "pokemontower.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 152,
+  "loops": true,
+  "ticks": 6336,
+  "file_bytes": 505
+ },
+ "Music_SilphCo": {
+  "file": "silphco.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 160,
+  "loops": true,
+  "ticks": 6672,
+  "file_bytes": 1114
+ },
+ "Music_MeetEvilTrainer": {
+  "file": "meeteviltrainer.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 124,
+  "loops": true,
+  "ticks": 912,
+  "file_bytes": 92
+ },
+ "Music_MeetFemaleTrainer": {
+  "file": "meetfemaletrainer.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 124,
+  "loops": true,
+  "ticks": 936,
+  "file_bytes": 130
+ },
+ "Music_MeetMaleTrainer": {
+  "file": "meetmaletrainer.asm",
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "tempo": 112,
+  "loops": true,
+  "ticks": 1152,
+  "file_bytes": 201
+ }
+}

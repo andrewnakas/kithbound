@@ -1,0 +1,16 @@
+{
+ "engine/menus/save.asm|NowSavingString|0": "Recording...@",
+ "engine/menus/save.asm|BoxNames|0": "No. 1",
+ "engine/menus/save.asm|BoxNames|1": "No. 2",
+ "engine/menus/save.asm|BoxNames|2": "No. 3",
+ "engine/menus/save.asm|BoxNames|3": "No. 4",
+ "engine/menus/save.asm|BoxNames|4": "No. 5",
+ "engine/menus/save.asm|BoxNames|5": "No. 6",
+ "engine/menus/save.asm|BoxNames|6": "No. 7",
+ "engine/menus/save.asm|BoxNames|7": "No. 8",
+ "engine/menus/save.asm|BoxNames|8": "No. 9",
+ "engine/menus/save.asm|BoxNames|9": "No.10",
+ "engine/menus/save.asm|BoxNames|10": "No.11",
+ "engine/menus/save.asm|BoxNames|11": "No.12@",
+ "engine/menus/save.asm|BoxNoText|0": "BOX No.@"
+}

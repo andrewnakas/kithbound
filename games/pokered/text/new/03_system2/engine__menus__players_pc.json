@@ -1,0 +1,6 @@
+{
+ "engine/menus/players_pc.asm|PlayersPCMenuEntries|0": "TAKE OUT GEAR",
+ "engine/menus/players_pc.asm|PlayersPCMenuEntries|1": "STORE GEAR",
+ "engine/menus/players_pc.asm|PlayersPCMenuEntries|2": "DROP GEAR",
+ "engine/menus/players_pc.asm|PlayersPCMenuEntries|3": "LEAVE@"
+}

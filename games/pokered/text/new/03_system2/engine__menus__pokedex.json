@@ -1,0 +1,11 @@
+{
+ "engine/menus/pokedex.asm|PokedexSeenText|0": "SAW@",
+ "engine/menus/pokedex.asm|PokedexOwnText|0": "GOT@",
+ "engine/menus/pokedex.asm|PokedexContentsText|0": "INDEX@",
+ "engine/menus/pokedex.asm|PokedexMenuItemsText|0": "INFO",
+ "engine/menus/pokedex.asm|PokedexMenuItemsText|1": "CALL",
+ "engine/menus/pokedex.asm|PokedexMenuItemsText|2": "MAP",
+ "engine/menus/pokedex.asm|PokedexMenuItemsText|3": "BACK@",
+ "engine/menus/pokedex.asm|HeightWeightText|0": "HT  ?′??″",
+ "engine/menus/pokedex.asm|HeightWeightText|1": "WT   ???lb@"
+}

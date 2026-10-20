@@ -1,0 +1,18 @@
+{
+ "engine/pokemon/bills_pc.asm|SomeonesPCText|0": "UNKNOWN PC@",
+ "engine/pokemon/bills_pc.asm|BillsPCText|0": "PIP's PC@",
+ "engine/pokemon/bills_pc.asm|PlayersPCText|0": "'s PC@",
+ "engine/pokemon/bills_pc.asm|OaksPCText|0": "BRAMBLE's PC@",
+ "engine/pokemon/bills_pc.asm|PKMNLeaguePCText|0": "CROWN PC@",
+ "engine/pokemon/bills_pc.asm|LogOffPCText|0": "LEAVE@",
+ "engine/pokemon/bills_pc.asm|BillsPCMenuText|0": "TAKE KITH",
+ "engine/pokemon/bills_pc.asm|BillsPCMenuText|1": "STORE KITH",
+ "engine/pokemon/bills_pc.asm|BillsPCMenuText|2": "FREE KITH",
+ "engine/pokemon/bills_pc.asm|BillsPCMenuText|3": "SWAP BOX",
+ "engine/pokemon/bills_pc.asm|BillsPCMenuText|4": "SO LONG",
+ "engine/pokemon/bills_pc.asm|BoxNoPCText|0": "BOX No.@",
+ "engine/pokemon/bills_pc.asm|DepositPCText|0": "STORE@",
+ "engine/pokemon/bills_pc.asm|WithdrawPCText|0": "TAKE@",
+ "engine/pokemon/bills_pc.asm|StatsCancelPCText|0": "INFO",
+ "engine/pokemon/bills_pc.asm|StatsCancelPCText|1": "BACK@"
+}

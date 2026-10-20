@@ -1,0 +1,46 @@
+{
+ "game": "pokered (KITHBOUND)",
+ "names": "D:/n64work/pokered/orig/names.json",
+ "music": [
+  {
+   "retail": "orig/midi/*.mid",
+   "clean": "clean/orig_midi/*.mid",
+   "format": "mid"
+  }
+ ],
+ "text": [
+  {
+   "retail": "orig/retail_text.json",
+   "clean": "clean/orig_text.json"
+  }
+ ],
+ "images": [
+  {
+   "retail": "pristine/gfx/**/*.png",
+   "clean": "clean/gfx/**/*.png"
+  }
+ ],
+ "blockmap": [
+  {
+   "retail": "pristine/maps/*.blk",
+   "clean": "clean/maps/*.blk",
+   "dims": "spec/map_dims.json"
+  }
+ ],
+ "code": [
+  {
+   "retail": "dirty/pokered.gbc",
+   "clean": "clean/pokered.gbc",
+   "compiled": [
+    "clean/pokered.gbc.explained"
+   ]
+  },
+  {
+   "retail": "dirty/pokeblue.gbc",
+   "clean": "clean/pokeblue.gbc",
+   "compiled": [
+    "clean/pokeblue.gbc.explained"
+   ]
+  }
+ ]
+}

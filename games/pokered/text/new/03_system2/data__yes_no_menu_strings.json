@@ -1,0 +1,16 @@
+{
+ "data/yes_no_menu_strings.asm|TwoOptionMenuStrings.NoYesMenu|0": "NO",
+ "data/yes_no_menu_strings.asm|TwoOptionMenuStrings.NoYesMenu|1": "OK@",
+ "data/yes_no_menu_strings.asm|TwoOptionMenuStrings.YesNoMenu|0": "OK",
+ "data/yes_no_menu_strings.asm|TwoOptionMenuStrings.YesNoMenu|1": "NO@",
+ "data/yes_no_menu_strings.asm|TwoOptionMenuStrings.NorthWestMenu|0": "NORTH",
+ "data/yes_no_menu_strings.asm|TwoOptionMenuStrings.NorthWestMenu|1": "WEST@",
+ "data/yes_no_menu_strings.asm|TwoOptionMenuStrings.SouthEastMenu|0": "SOUTH",
+ "data/yes_no_menu_strings.asm|TwoOptionMenuStrings.SouthEastMenu|1": "EAST@",
+ "data/yes_no_menu_strings.asm|TwoOptionMenuStrings.NorthEastMenu|0": "NORTH",
+ "data/yes_no_menu_strings.asm|TwoOptionMenuStrings.NorthEastMenu|1": "EAST@",
+ "data/yes_no_menu_strings.asm|TwoOptionMenuStrings.TradeCancelMenu|0": "SWAP",
+ "data/yes_no_menu_strings.asm|TwoOptionMenuStrings.TradeCancelMenu|1": "BACK@",
+ "data/yes_no_menu_strings.asm|TwoOptionMenuStrings.HealCancelMenu|0": "REST",
+ "data/yes_no_menu_strings.asm|TwoOptionMenuStrings.HealCancelMenu|1": "BACK@"
+}
